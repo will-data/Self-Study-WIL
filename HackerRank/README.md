@@ -3,12 +3,12 @@ Solutions to problems on [HackerRank](https://www.hackerrank.com). (+[My HackerR
 
 Used template from a reference of [skrnsht's HackerRank repository](https://github.com/sknsht/HackerRank)
 
-* [Learn to code in 30 days](#Learn to code in 30 days)
-* [10 Days of Statistics](#10 Days of Satistics)
+* [Learn to code in 30 days](#learn-to-code-in-30-days)
+* [10 Days of Statistics](#10-days-of-statistics)
 * [Interview Preparation Kit](#interview-preparation-kit)
 * [Python](#Python)
 * [SQL](#SQL)
-* [Problem Solving](#Problem Solving)
+* [Problem Solving](#problem-solving)
 * [Cracking the Coding Interview](#cracking-the-coding-interview)
 
 ## Learn to code in 30 days

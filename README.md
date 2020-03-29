@@ -19,13 +19,13 @@ Solutions to problems on [HackerRank](https://www.hackerrank.com) (+[My HackerRa
 
 Used template from a reference of [skrnsht's HackerRank repository](https://github.com/sknsht/HackerRank)
 
-* [Learn to code in 30 days](#Learn to code in 30 days)
-* [10 Days of Statistics](#10 Days of Satistics)
-* [Interview Preparation Kit](#interview-preparation-kit)
-* [Python](#Python)
-* [SQL](#SQL)
-* [Problem Solving](#Problem Solving)
-* [Cracking the Coding Interview](#cracking-the-coding-interview)
+* [Learn to code in 30 days](HackerRank)
+* [10 Days of Statistics](HackerRank)
+* [Interview Preparation Kit](HackerRank)
+* [Python](HackerRank)
+* [SQL](HackerRank)
+* [Problem Solving](HackerRank)
+* [Cracking the Coding Interview](HackerRank)
 
 
 
