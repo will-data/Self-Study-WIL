@@ -15,11 +15,11 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 
 | Day  |                          Challenge                           | Score | Difficulty |                           Solution                           |
 | :--: | :----------------------------------------------------------: | :---: | :--------: | :----------------------------------------------------------: |
-|  0   | [Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem) |  30   |    Easy    |  [solution.py](../30%20Days%20of%20Code/Hello,%20World..py)  |
-|  1   | [Data Types](https://www.hackerrank.com/challenges/30-data-types/problem) |  30   |    Easy    |   [solution.py](../30%20Days%20of%20Code/Data%20Types.py)    |
-|  2   | [Operators](https://www.hackerrank.com/challenges/30-operators/problem) |  30   |    Easy    |     [solution.py](../30%20Days%20of%20Code/Operators.py)     |
-|  3   | [Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem) |  30   |    Easy    | [solution.py](../30%20Days%20of%20Code/Intro%20to%20Conditional%20Statements.py) |
-|  4   | [Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) |  30   |    Easy    | [solution.py](../30%20Days%20of%20Code/Class%20vs.%20Instance.py) |
+|  0   | [Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem) |  30   |    Easy    |   [solution.py](30%20Days%20of%20Code/Hello,%20World..py)    |
+|  1   | [Data Types](https://www.hackerrank.com/challenges/30-data-types/problem) |  30   |    Easy    |     [solution.py](30%20Days%20of%20Code/Data%20Types.py)     |
+|  2   | [Operators](https://www.hackerrank.com/challenges/30-operators/problem) |  30   |    Easy    |      [solution.py](30%20Days%20of%20Code/Operators.py)       |
+|  3   | [Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem) |  30   |    Easy    | [solution.py](30%20Days%20of%20Code/Intro%20to%20Conditional%20Statements.py) |
+|  4   | [Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) |  30   |    Easy    | [solution.py](30%20Days%20of%20Code/Class%20vs.%20Instance.py) |
 |  5   |                                                              |       |            |                                                              |
 |  6   |                                                              |       |            |                                                              |
 |  7   |                                                              |       |            |                                                              |
