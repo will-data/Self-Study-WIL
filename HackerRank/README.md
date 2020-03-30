@@ -15,11 +15,11 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 
 | Day  |                          Challenge                           | Score | Difficulty |                           Solution                           |
 | :--: | :----------------------------------------------------------: | :---: | :--------: | :----------------------------------------------------------: |
-|  0   | [Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem) |  30   |    Easy    |       [solution.py](30 Days of Code/Hello, World..py)        |
-|  1   | [Data Types](https://www.hackerrank.com/challenges/30-data-types/problem) |  30   |    Easy    |         [solution.py](30 Days of Code/Data Types.py)         |
-|  2   | [Operators](https://www.hackerrank.com/challenges/30-operators/problem) |  30   |    Easy    |         [solution.py](30 Days of Code/Operators.py)          |
-|  3   | [Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem) |  30   |    Easy    | [solution.py](30 Days of Code/Intro to Conditional Statements.py) |
-|  4   | [Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) |  30   |    Easy    |     [solution.py](30 Days of Code/Class vs. Instance.py)     |
+|  0   | [Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem) |  30   |    Easy    |      [solution.py](../30 Days of Code/Hello, World..py)      |
+|  1   | [Data Types](https://www.hackerrank.com/challenges/30-data-types/problem) |  30   |    Easy    |       [solution.py](../30 Days of Code/Data Types.py)        |
+|  2   | [Operators](https://www.hackerrank.com/challenges/30-operators/problem) |  30   |    Easy    |        [solution.py](../30 Days of Code/Operators.py)        |
+|  3   | [Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem) |  30   |    Easy    | [solution.py](../30 Days of Code/Intro to Conditional Statements.py) |
+|  4   | [Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) |  30   |    Easy    |   [solution.py](../30 Days of Code/Class vs. Instance.py)    |
 |  5   |                                                              |       |            |                                                              |
 |  6   |                                                              |       |            |                                                              |
 |  7   |                                                              |       |            |                                                              |
