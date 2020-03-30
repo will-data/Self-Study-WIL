@@ -3,7 +3,7 @@ Organize What I Learned(WIL) by studying various materials by myself
 
 This repository includes organized lines of WIL, solutions to exercises and coding problems, etc
 
-* [Python for Everybody (PY4E)](#Python for Everybody)
+* [Python for Everybody (PY4E)](#python-for-everybody(py4e))
 * [HackerRank](#HackerRank)
 
 # Python for Everybody(PY4E)
@@ -19,7 +19,7 @@ Solutions to problems on [HackerRank](https://www.hackerrank.com) (+[My HackerRa
 
 Used template from a reference of [skrnsht's HackerRank repository](https://github.com/sknsht/HackerRank)
 
-* [Learn to code in 30 days](HackerRank)
+* [30 days of Code](HackerRank)
 * [10 Days of Statistics](HackerRank)
 * [Interview Preparation Kit](HackerRank)
 * [Python](HackerRank)
