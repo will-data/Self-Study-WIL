@@ -3,7 +3,7 @@ Solutions to problems on [HackerRank](https://www.hackerrank.com). (+[My HackerR
 
 Used template from a reference of [skrnsht's HackerRank repository](https://github.com/sknsht/HackerRank)
 
-* [Learn to code in 30 days](#learn-to-code-in-30-days)
+* [30 Days of Code](#30-days-of-cde)
 * [10 Days of Statistics](#10-days-of-statistics)
 * [Interview Preparation Kit](#interview-preparation-kit)
 * [Python](#Python)
@@ -11,40 +11,40 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 * [Problem Solving](#problem-solving)
 * [Cracking the Coding Interview](#cracking-the-coding-interview)
 
-## Learn to code in 30 days
+## 30 Days of Code
 
-| Day  | Challenge | Score | Difficulty | Solution |
-| :--: | :-------: | :---: | :--------: | :------: |
-|  0   |           |       |            |          |
-|  1   |           |       |            |          |
-|  2   |           |       |            |          |
-|  3   |           |       |            |          |
-|  4   |           |       |            |          |
-|  5   |           |       |            |          |
-|  6   |           |       |            |          |
-|  7   |           |       |            |          |
-|  8   |           |       |            |          |
-|  9   |           |       |            |          |
-|  10  |           |       |            |          |
-|  11  |           |       |            |          |
-|  12  |           |       |            |          |
-|  13  |           |       |            |          |
-|  14  |           |       |            |          |
-|  15  |           |       |            |          |
-|  16  |           |       |            |          |
-|  17  |           |       |            |          |
-|  18  |           |       |            |          |
-|  19  |           |       |            |          |
-|  20  |           |       |            |          |
-|  21  |           |       |            |          |
-|  22  |           |       |            |          |
-|  23  |           |       |            |          |
-|  24  |           |       |            |          |
-|  25  |           |       |            |          |
-|  26  |           |       |            |          |
-|  27  |           |       |            |          |
-|  28  |           |       |            |          |
-|  29  |           |       |            |          |
+| Day  |                          Challenge                           | Score | Difficulty |                           Solution                           |
+| :--: | :----------------------------------------------------------: | :---: | :--------: | :----------------------------------------------------------: |
+|  0   | [Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem) |  30   |    Easy    |       [solution.py](30 Days of Code/Hello, World..py)        |
+|  1   | [Data Types](https://www.hackerrank.com/challenges/30-data-types/problem) |  30   |    Easy    |         [solution.py](30 Days of Code/Data Types.py)         |
+|  2   | [Operators](https://www.hackerrank.com/challenges/30-operators/problem) |  30   |    Easy    |         [solution.py](30 Days of Code/Operators.py)          |
+|  3   | [Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem) |  30   |    Easy    | [solution.py](30 Days of Code/Intro to Conditional Statements.py) |
+|  4   | [Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) |  30   |    Easy    |     [solution.py](30 Days of Code/Class vs. Instance.py)     |
+|  5   |                                                              |       |            |                                                              |
+|  6   |                                                              |       |            |                                                              |
+|  7   |                                                              |       |            |                                                              |
+|  8   |                                                              |       |            |                                                              |
+|  9   |                                                              |       |            |                                                              |
+|  10  |                                                              |       |            |                                                              |
+|  11  |                                                              |       |            |                                                              |
+|  12  |                                                              |       |            |                                                              |
+|  13  |                                                              |       |            |                                                              |
+|  14  |                                                              |       |            |                                                              |
+|  15  |                                                              |       |            |                                                              |
+|  16  |                                                              |       |            |                                                              |
+|  17  |                                                              |       |            |                                                              |
+|  18  |                                                              |       |            |                                                              |
+|  19  |                                                              |       |            |                                                              |
+|  20  |                                                              |       |            |                                                              |
+|  21  |                                                              |       |            |                                                              |
+|  22  |                                                              |       |            |                                                              |
+|  23  |                                                              |       |            |                                                              |
+|  24  |                                                              |       |            |                                                              |
+|  25  |                                                              |       |            |                                                              |
+|  26  |                                                              |       |            |                                                              |
+|  27  |                                                              |       |            |                                                              |
+|  28  |                                                              |       |            |                                                              |
+|  29  |                                                              |       |            |                                                              |
 
 ## 10 days of Statistics
 
