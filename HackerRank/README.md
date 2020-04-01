@@ -20,8 +20,8 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 |  2   | [Operators](https://www.hackerrank.com/challenges/30-operators/problem) |  30   |    Easy    |      [solution.py](30%20Days%20of%20Code/Operators.py)       |
 |  3   | [Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem) |  30   |    Easy    | [solution.py](30%20Days%20of%20Code/Intro%20to%20Conditional%20Statements.py) |
 |  4   | [Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) |  30   |    Easy    | [solution.py](30%20Days%20of%20Code/Class%20vs.%20Instance.py) |
-|  5   | [Loops](https://www.hackerrank.com/challenges/30-loops/problem) |  30   |    Easy    | [solution.py](30%20Days%20of%20Code/Class%20vs.%20Loops.py)  |
-|  6   |                                                              |       |            |                                                              |
+|  5   | [Loops](https://www.hackerrank.com/challenges/30-loops/problem) |  30   |    Easy    |        [solution.py](30%20Days%20of%20Code/Loops.py)         |
+|  6   | [Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem) |  30   |    Easy    |    [solution.py](30%20Days%20of%20Code/Let's%20Review.py)    |
 |  7   |                                                              |       |            |                                                              |
 |  8   |                                                              |       |            |                                                              |
 |  9   |                                                              |       |            |                                                              |
@@ -46,20 +46,37 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 |  28  |                                                              |       |            |                                                              |
 |  29  |                                                              |       |            |                                                              |
 
-## 10 days of Statistics
+## 10 Days of Statistics
 
-| Day  | Challenge | Score | Difficulty | Solution |
-| :--: | :-------: | :---: | :--------: | :------: |
-|  0   |           |       |            |          |
-|  1   |           |       |            |          |
-|  2   |           |       |            |          |
-|  3   |           |       |            |          |
-|  4   |           |       |            |          |
-|  5   |           |       |            |          |
-|  6   |           |       |            |          |
-|  7   |           |       |            |          |
-|  8   |           |       |            |          |
-|  9   |           |       |            |          |
+| Day  |                          Challenge                           | Score |   Difficulty    |                           Solution                           |
+| :--: | :----------------------------------------------------------: | :---: | :-------------: | :----------------------------------------------------------: |
+|  0   | [Mean, Median, and Mode](https://www.hackerrank.com/challenges/s10-basic-statistics/problem) |  30   |      Easy       | [solution.py](10%20Days%20of%20Statistics/Mean,%20Median,%20and%20Mode.py) |
+|  0   | [Weighted Mean](https://www.hackerrank.com/challenges/s10-weighted-mean/problem) |  30   |      Easy       | [solution.py](10%20Days%20of%20Statistics/Weighted%20Mean.py) |
+|  1   | [Quartiles](https://www.hackerrank.com/challenges/s10-quartiles/problem) |  30   |      Easy       |   [solution.py](10%20Days%20of%20Statistics/Quartiles.py)    |
+|  1   | [Interquartile Range](https://www.hackerrank.com/challenges/s10-interquartile-range/problem) |  30   |      Easy       | [solution.py](10%20Days%20of%20Statistics/Interquartile%20Range.py) |
+|  1   | [Standard Deviation](https://www.hackerrank.com/challenges/s10-standard-deviation/problem) |  30   |      Easy       | [solution.py](10%20Days%20of%20Statistics/Standard%20Deviation.py) |
+|  2   | [Basic Probability](https://www.hackerrank.com/challenges/s10-mcq-1/problem) |  10   | Multiple Choice |                              -                               |
+|  2   | [More Dice](https://www.hackerrank.com/challenges/s10-mcq-2/problem) |  10   | Multiple Choice |                              -                               |
+|  2   | [Compound Event Probability](https://www.hackerrank.com/challenges/s10-mcq-3/problem) |  10   | Multiple Choice |                              -                               |
+|  3   | [Conditional Probability](https://www.hackerrank.com/challenges/s10-mcq-4/problem) |  10   | Multiple Choice |                              -                               |
+|  3   | [Cards of the Same Suit](https://www.hackerrank.com/challenges/s10-mcq-5/problem) |  10   | Multiple Choice |                              -                               |
+|  3   | [Drawing Marbles](https://www.hackerrank.com/challenges/s10-mcq-6/problem) |  10   | Multiple Choice |                              -                               |
+|  4   |                                                              |  30   |      Easy       |                                                              |
+|  4   |                                                              |  30   |      Easy       |                                                              |
+|  4   |                                                              |  30   |      Easy       |                                                              |
+|  4   |                                                              |  30   |      Easy       |                                                              |
+|  5   |                                                              |       |                 |                                                              |
+|  5   |                                                              |       |                 |                                                              |
+|  5   |                                                              |       |                 |                                                              |
+|  5   |                                                              |       |                 |                                                              |
+|  6   |                                                              |       |                 |                                                              |
+|  6   |                                                              |       |                 |                                                              |
+|  6   |                                                              |       |                 |                                                              |
+|  7   |                                                              |       |                 |                                                              |
+|  7   |                                                              |       |                 |                                                              |
+|  8   |                                                              |       |                 |                                                              |
+|  8   |                                                              |       |                 |                                                              |
+|  9   |                                                              |       |                 |                                                              |
 
 ## Interview Preparation Kit
 
