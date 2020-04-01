@@ -61,10 +61,10 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 |  3   | [Conditional Probability](https://www.hackerrank.com/challenges/s10-mcq-4/problem) |  10   | Multiple Choice |                              -                               |
 |  3   | [Cards of the Same Suit](https://www.hackerrank.com/challenges/s10-mcq-5/problem) |  10   | Multiple Choice |                              -                               |
 |  3   | [Drawing Marbles](https://www.hackerrank.com/challenges/s10-mcq-6/problem) |  10   | Multiple Choice |                              -                               |
-|  4   |                                                              |  30   |      Easy       |                                                              |
-|  4   |                                                              |  30   |      Easy       |                                                              |
-|  4   |                                                              |  30   |      Easy       |                                                              |
-|  4   |                                                              |  30   |      Easy       |                                                              |
+|  4   | [Binomial Distribution I](https://www.hackerrank.com/challenges/s10-binomial-distribution-1/problem) |  30   |      Easy       | [solution.py](10%20Days%20of%20Statistics/Binomial%20Distribution%20I.py) |
+|  4   | [Binomial Distribution II](https://www.hackerrank.com/challenges/s10-binomial-distribution-2/problem?h_r=next-challenge&h_v=zen) |  30   |      Easy       | [solution.py](10%20Days%20of%20Statistics/Binomial%20Distribution%20II.py) |
+|  4   | [Geometric Distribution I](https://www.hackerrank.com/challenges/s10-geometric-distribution-1/problem) |  30   |      Easy       |                                                              |
+|  4   | [Geometric Distribution II](https://www.hackerrank.com/challenges/s10-geometric-distribution-2/problem) |  30   |      Easy       |                                                              |
 |  5   |                                                              |       |                 |                                                              |
 |  5   |                                                              |       |                 |                                                              |
 |  5   |                                                              |       |                 |                                                              |
