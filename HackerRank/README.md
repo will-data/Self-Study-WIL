@@ -22,8 +22,8 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 |  4   | [Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) |  30   |    Easy    | [solution.py](30%20Days%20of%20Code/Class%20vs.%20Instance.py) |
 |  5   | [Loops](https://www.hackerrank.com/challenges/30-loops/problem) |  30   |    Easy    |        [solution.py](30%20Days%20of%20Code/Loops.py)         |
 |  6   | [Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem) |  30   |    Easy    |    [solution.py](30%20Days%20of%20Code/Let's%20Review.py)    |
-|  7   |                                                              |       |            |                                                              |
-|  8   |                                                              |       |            |                                                              |
+|  7   | [Arrays](https://www.hackerrank.com/challenges/30-arrays/problem) |  30   |    Easy    |        [solution.py](30%20Days%20of%20Code/Arrays.py)        |
+|  8   | [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) |  30   |    Easy    | [solution.py](30%20Days%20of%20Code/Dictionaries%20and%20Maps.py) |
 |  9   |                                                              |       |            |                                                              |
 |  10  |                                                              |       |            |                                                              |
 |  11  |                                                              |       |            |                                                              |
