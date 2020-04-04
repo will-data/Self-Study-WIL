@@ -24,7 +24,7 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 |  6   | [Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem) |  30   |    Easy    |    [solution.py](30%20Days%20of%20Code/Let's%20Review.py)    |
 |  7   | [Arrays](https://www.hackerrank.com/challenges/30-arrays/problem) |  30   |    Easy    |        [solution.py](30%20Days%20of%20Code/Arrays.py)        |
 |  8   | [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) |  30   |    Easy    | [solution.py](30%20Days%20of%20Code/Dictionaries%20and%20Maps.py) |
-|  9   |                                                              |       |            |                                                              |
+|  9   | [Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem) |  30   |    Easy    |    [solution.py](30%20Days%20of%20Code/Recursion%203.py)     |
 |  10  |                                                              |       |            |                                                              |
 |  11  |                                                              |       |            |                                                              |
 |  12  |                                                              |       |            |                                                              |
@@ -308,10 +308,29 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 
 ## Problem Solving
 
-| Subdomain | Challenge | Score | Difficulty | Solution |
-| :-------: | :-------: | :---: | :--------: | :------: |
-|           |           |       |            |          |
-|           |           |       |            |          |
+|     Domain      |   Subdomain    |                          Challenge                           | Score | Difficulty |                           Solution                           |
+| :-------------: | :------------: | :----------------------------------------------------------: | :---: | :--------: | :----------------------------------------------------------: |
+|   Algorithms    |     Warmup     | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) |   1   |    Easy    | [solution.py](Problem%20Solving/Algorithms/Solve%20Me%First.py) |
+|   Algorithms    |     Warmup     | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Algorithms/Simple%20Array%20Sum.py) |
+|   Algorithms    |     Warmup     | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Algorithms/Compare%20the%20Triplets.py) |
+|   Algorithms    |     Warmup     |                                                              |       |            |                                                              |
+|   Algorithms    |     Warmup     |                                                              |       |            |                                                              |
+|   Algorithms    |     Warmup     |                                                              |       |            |                                                              |
+|   Algorithms    |     Warmup     |                                                              |       |            |                                                              |
+|   Algorithms    |     Warmup     |                                                              |       |            |                                                              |
+|   Algorithms    |     Warmup     |                                                              |       |            |                                                              |
+|   Algorithms    |     Warmup     |                                                              |       |            |                                                              |
+|   Algorithms    | Implementation | [Grading Students](https://www.hackerrank.com/challenges/grading/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Algorithms/Grading%20Students.py) |
+|   Algorithms    | Implementation | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Algorithms/Apple%20and%20Orange.py) |
+|   Algorithms    | Implementation |                         [Kangaroo]()                         |  10   |    Easy    |   [solution.py](Problem%20Solving/Algorithms/Kangaroo.py)    |
+|   Algorithms    | Implementation | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Algorithms/Between%20Two%20Sets.py) |
+|   Algorithms    | Implementation |                                                              |       |            |                                                              |
+|   Algorithms    |    Strings     |                                                              |       |            |                                                              |
+| Data Structures |                |                                                              |       |            |                                                              |
+| Data Structures |                |                                                              |       |            |                                                              |
+| Data Structures |                |                                                              |       |            |                                                              |
+| Data Structures |                |                                                              |       |            |                                                              |
+| Data Structures |                |                                                              |       |            |                                                              |
 
 ## Cracking the Coding Interview
 
