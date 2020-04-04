@@ -63,17 +63,17 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 |  3   | [Drawing Marbles](https://www.hackerrank.com/challenges/s10-mcq-6/problem) |  10   | Multiple Choice |                              -                               |
 |  4   | [Binomial Distribution I](https://www.hackerrank.com/challenges/s10-binomial-distribution-1/problem) |  30   |      Easy       | [solution.py](10%20Days%20of%20Statistics/Binomial%20Distribution%20I.py) |
 |  4   | [Binomial Distribution II](https://www.hackerrank.com/challenges/s10-binomial-distribution-2/problem?h_r=next-challenge&h_v=zen) |  30   |      Easy       | [solution.py](10%20Days%20of%20Statistics/Binomial%20Distribution%20II.py) |
-|  4   | [Geometric Distribution I](https://www.hackerrank.com/challenges/s10-geometric-distribution-1/problem) |  30   |      Easy       |                                                              |
-|  4   | [Geometric Distribution II](https://www.hackerrank.com/challenges/s10-geometric-distribution-2/problem) |  30   |      Easy       |                                                              |
-|  5   |                                                              |       |                 |                                                              |
-|  5   |                                                              |       |                 |                                                              |
-|  5   |                                                              |       |                 |                                                              |
-|  5   |                                                              |       |                 |                                                              |
-|  6   |                                                              |       |                 |                                                              |
-|  6   |                                                              |       |                 |                                                              |
-|  6   |                                                              |       |                 |                                                              |
-|  7   |                                                              |       |                 |                                                              |
-|  7   |                                                              |       |                 |                                                              |
+|  4   | [Geometric Distribution I](https://www.hackerrank.com/challenges/s10-geometric-distribution-1/problem) |  30   |      Easy       | [solution.py](10%20Days%20of%20Statistics/Geometric%20Distribution%20I.py) |
+|  4   | [Geometric Distribution II](https://www.hackerrank.com/challenges/s10-geometric-distribution-2/problem) |  30   |      Easy       | [solution.py](10%20Days%20of%20Statistics/Geometric%20Distribution%20II.py) |
+|  5   | [Poisson Distribution I](https://www.hackerrank.com/challenges/s10-poisson-distribution-1/problem) |  30   |      Easy       | [solution.py](10%20Days%20of%20Statistics/Poisson%20Distribution%20I.py) |
+|  5   | [Poisson Distribution II](https://www.hackerrank.com/challenges/s10-poisson-distribution-2/problem) |  30   |      Easy       | [solution.py](10%20Days%20of%20Statistics/Poisson%20Distribution%20II.py) |
+|  5   |                                                              |  30   |      Easy       |                                                              |
+|  5   |                                                              |  30   |      Easy       |                                                              |
+|  6   |                                                              |  30   |      Easy       |                                                              |
+|  6   |                                                              |  30   |      Easy       |                                                              |
+|  6   |                                                              |  30   |      Easy       |                                                              |
+|  7   |                                                              |  30   |      Easy       |                                                              |
+|  7   |                                                              |  30   |      Easy       |                                                              |
 |  8   |                                                              |       |                 |                                                              |
 |  8   |                                                              |       |                 |                                                              |
 |  9   |                                                              |       |                 |                                                              |
@@ -310,7 +310,7 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 
 |     Domain      |   Subdomain    |                          Challenge                           | Score | Difficulty |                           Solution                           |
 | :-------------: | :------------: | :----------------------------------------------------------: | :---: | :--------: | :----------------------------------------------------------: |
-|   Algorithms    |     Warmup     | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) |   1   |    Easy    | [solution.py](Problem%20Solving/Algorithms/Solve%20Me%First.py) |
+|   Algorithms    |     Warmup     | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) |   1   |    Easy    | [solution.py](Problem%20Solving/Algorithms/Solve%20Me%20First.py) |
 |   Algorithms    |     Warmup     | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Algorithms/Simple%20Array%20Sum.py) |
 |   Algorithms    |     Warmup     | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Algorithms/Compare%20the%20Triplets.py) |
 |   Algorithms    |     Warmup     |                                                              |       |            |                                                              |
