@@ -25,8 +25,8 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 |  7   | [Arrays](https://www.hackerrank.com/challenges/30-arrays/problem) |  30   |    Easy    |        [solution.py](30%20Days%20of%20Code/Arrays.py)        |
 |  8   | [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) |  30   |    Easy    | [solution.py](30%20Days%20of%20Code/Dictionaries%20and%20Maps.py) |
 |  9   | [Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem) |  30   |    Easy    |    [solution.py](30%20Days%20of%20Code/Recursion%203.py)     |
-|  10  |                                                              |       |            |                                                              |
-|  11  |                                                              |       |            |                                                              |
+|  10  | [Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem) |  30   |    Easy    |   [solution.py](30%20Days%20of%20Code/Binary%20Numbers.py)   |
+|  11  | [2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem) |  30   |    Easy    |     [solution.py](30%20Days%20of%20Code/2D%20Arrays.py)      |
 |  12  |                                                              |       |            |                                                              |
 |  13  |                                                              |       |            |                                                              |
 |  14  |                                                              |       |            |                                                              |
@@ -67,11 +67,11 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 |  4   | [Geometric Distribution II](https://www.hackerrank.com/challenges/s10-geometric-distribution-2/problem) |  30   |      Easy       | [solution.py](10%20Days%20of%20Statistics/Geometric%20Distribution%20II.py) |
 |  5   | [Poisson Distribution I](https://www.hackerrank.com/challenges/s10-poisson-distribution-1/problem) |  30   |      Easy       | [solution.py](10%20Days%20of%20Statistics/Poisson%20Distribution%20I.py) |
 |  5   | [Poisson Distribution II](https://www.hackerrank.com/challenges/s10-poisson-distribution-2/problem) |  30   |      Easy       | [solution.py](10%20Days%20of%20Statistics/Poisson%20Distribution%20II.py) |
-|  5   |                                                              |  30   |      Easy       |                                                              |
-|  5   |                                                              |  30   |      Easy       |                                                              |
-|  6   |                                                              |  30   |      Easy       |                                                              |
-|  6   |                                                              |  30   |      Easy       |                                                              |
-|  6   |                                                              |  30   |      Easy       |                                                              |
+|  5   | [Normal Distribution I](https://www.hackerrank.com/challenges/s10-normal-distribution-1/problem) |  30   |      Easy       | [solution.py](10%20Days%20of%20Statistics/Normal%20Distribution%20I.py) |
+|  5   | [Normal Distribution II](https://www.hackerrank.com/challenges/s10-normal-distribution-2/problem?h_r=next-challenge&h_v=zen) |  30   |      Easy       | [solution.py](10%20Days%20of%20Statistics/Normal%20Distribution%20II.py) |
+|  6   | [The Central Limit Theorem I](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-1/problem) |  30   |      Easy       | [solution.py](10%20Days%20of%20Statistics/The%20Central%20Limit%20Theorem%20I.py) |
+|  6   | [The Central Limit Theorem II](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-2/problem) |  30   |      Easy       | [solution.py](10%20Days%20of%20Statistics/The%20Central%20Limit%20Theorem%20II.py) |
+|  6   | [The Central Limit Theorem III](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-3/problem) |  30   |      Easy       | [solution.py](10%20Days%20of%20Statistics/The%20Central%20Limit%20Theorem%20III.py) |
 |  7   |                                                              |  30   |      Easy       |                                                              |
 |  7   |                                                              |  30   |      Easy       |                                                              |
 |  8   |                                                              |       |                 |                                                              |
