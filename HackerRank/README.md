@@ -9,7 +9,6 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 * [Python](#Python)
 * [SQL](#SQL)
 * [Problem Solving](#problem-solving)
-* [Cracking the Coding Interview](#cracking-the-coding-interview)
 
 ## 30 Days of Code
 
@@ -27,7 +26,7 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 |  9   | [Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem) |  30   |    Easy    |    [solution.py](30%20Days%20of%20Code/Recursion%203.py)     |
 |  10  | [Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem) |  30   |    Easy    |   [solution.py](30%20Days%20of%20Code/Binary%20Numbers.py)   |
 |  11  | [2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem) |  30   |    Easy    |     [solution.py](30%20Days%20of%20Code/2D%20Arrays.py)      |
-|  12  |                                                              |       |            |                                                              |
+|  12  | [Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem) |  30   |    Easy    |     [solution.py](30%20Days%20of%20Code/Inheritance.py)      |
 |  13  |                                                              |       |            |                                                              |
 |  14  |                                                              |       |            |                                                              |
 |  15  |                                                              |       |            |                                                              |
@@ -72,56 +71,56 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 |  6   | [The Central Limit Theorem I](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-1/problem) |  30   |      Easy       | [solution.py](10%20Days%20of%20Statistics/The%20Central%20Limit%20Theorem%20I.py) |
 |  6   | [The Central Limit Theorem II](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-2/problem) |  30   |      Easy       | [solution.py](10%20Days%20of%20Statistics/The%20Central%20Limit%20Theorem%20II.py) |
 |  6   | [The Central Limit Theorem III](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-3/problem) |  30   |      Easy       | [solution.py](10%20Days%20of%20Statistics/The%20Central%20Limit%20Theorem%20III.py) |
-|  7   |                                                              |  30   |      Easy       |                                                              |
-|  7   |                                                              |  30   |      Easy       |                                                              |
-|  8   |                                                              |       |                 |                                                              |
-|  8   |                                                              |       |                 |                                                              |
+|  7   | [Pearson Correlation Coefficient I](https://www.hackerrank.com/challenges/s10-pearson-correlation-coefficient/problem) |  30   |      Easy       | [solution.py](10%20Days%20of%20Statistics/Pearson%20Correlation%20Coefficient%20I.py) |
+|  7   | [Spearman's Rank Correlation Coefficient](https://www.hackerrank.com/challenges/s10-spearman-rank-correlation-coefficient/problem) |  30   |      Easy       |                                                              |
+|  8   | [Least Square Regression Line](https://www.hackerrank.com/challenges/s10-least-square-regression-line/problem) |  30   |      Easy       |                                                              |
+|  8   |            [Pearson Correlation Coefficient II]()            |  30   | Multiple Choice |                              -                               |
 |  9   |                                                              |       |                 |                                                              |
 
 ## Interview Preparation Kit
 
-|         Subdomain          |                          Challenge                           | Score | Difficulty | Solution |
-| :------------------------: | :----------------------------------------------------------: | :---: | :--------: | -------- |
-|     Warm-up Challenges     | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant) |  10   |    Easy    |          |
-|     Warm-up Challenges     | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys) |  15   |    Easy    |          |
-|     Warm-up Challenges     | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds) |  20   |    Easy    |          |
-|     Warm-up Challenges     | [Repeated String](https://www.hackerrank.com/challenges/repeated-string) |  20   |    Easy    |          |
-|           Arrays           | [2D Array - DS](https://www.hackerrank.com/challenges/2d-array) |  15   |    Easy    |          |
-|           Arrays           | [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation) |  20   |    Easy    |          |
-|           Arrays           | [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos) |  40   |   Medium   |          |
-|           Arrays           | [Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2) |  40   |   Medium   |          |
-|           Arrays           | [Array Manipulation](https://www.hackerrank.com/challenges/crush) |  60   |    Hard    |          |
-| Dictionaries and Hashmaps  | [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note) |  25   |    Easy    |          |
-| Dictionaries and Hashmaps  | [Two Strings](https://www.hackerrank.com/challenges/two-strings) |  25   |    Easy    |          |
-| Dictionaries and Hashmaps  | [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams) |  50   |   Medium   |          |
-|          Sorting           | [Sorting: Bubble Sort](https://www.hackerrank.com/challenges/ctci-bubble-sort) |  30   |    Easy    |          |
-|          Sorting           | [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys) |  35   |    Easy    |          |
-|          Sorting           | [Sorting: Comparator](https://www.hackerrank.com/challenges/ctci-comparator-sorting) |  35   |   Medium   |          |
-|          Sorting           | [Merge Sort: Counting Inversions](https://www.hackerrank.com/challenges/ctci-merge-sort) |  45   |    Hard    |          |
-|    String Manipulation     | [Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams) |  25   |    Easy    |          |
-|    String Manipulation     | [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters) |  20   |    Easy    |          |
-|     Greedy Algorithms      | [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array) |  15   |    Easy    |          |
-|     Greedy Algorithms      | [Luck Balance](https://www.hackerrank.com/challenges/luck-balance) |  20   |    Easy    |          |
-|     Greedy Algorithms      | [Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist) |  35   |   Medium   |          |
-|     Greedy Algorithms      | [Max Min](https://www.hackerrank.com/challenges/angry-children) |  35   |   Medium   |          |
-|           Search           | [Hash Tables: Ice Cream Parlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor) |  35   |   Medium   |          |
-|           Search           |     [Pairs](https://www.hackerrank.com/challenges/pairs)     |  50   |   Medium   |          |
-|    Dynamic Programming     | [Max Array Sum](https://www.hackerrank.com/challenges/max-array-sum) |  20   |   Medium   |          |
-|    Dynamic Programming     |   [Candies](https://www.hackerrank.com/challenges/candies)   |  50   |   Medium   |          |
-|     Stacks and Queues      | [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets) |  25   |   Medium   |          |
-|     Stacks and Queues      | [Queues: A Tale of Two Stacks](https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks) |  30   |   Medium   |          |
-|           Graphs           | [BFS: Shortest Reach in a Graph](https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach) |  45   |    Hard    |          |
-|           Graphs           | [DFS: Connected Cell in a Grid](https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid) |  45   |    Hard    |          |
-|           Trees            | [Tree: Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree) |  10   |    Easy    |          |
-|           Trees            | [Trees: Is This a Binary Search Tree?](https://www.hackerrank.com/challenges/ctci-is-binary-search-tree) |  30   |   Medium   |          |
-|           Trees            | [Binary Search Tree: Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor) |  30   |    Easy    |          |
-|        Linked Lists        | [Linked Lists: Detect a Cycle](https://www.hackerrank.com/challenges/ctci-linked-list-cycle) |  25   |    Easy    |          |
-|        Linked Lists        | [Reverse a Doubly Linked List](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list) |   5   |    Easy    |          |
-|        Linked Lists        | [Find Merge Point of Two Lists](https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists) |   5   |    Easy    |          |
-| Recursion and Backtracking | [Recursion: Fibonacci Numbers](https://www.hackerrank.com/challenges/ctci-fibonacci-numbers) |  15   |    Easy    |          |
-| Recursion and Backtracking | [Recursion: Davis' Staircase](https://www.hackerrank.com/challenges/ctci-recursive-staircase) |  30   |   Medium   |          |
-|       Miscellaneous        | [Flipping bits](https://www.hackerrank.com/challenges/flipping-bits) |  40   |    Easy    |          |
-|       Miscellaneous        | [Time Complexity: Primality](https://www.hackerrank.com/challenges/ctci-big-o) |  30   |   Medium   |          |
+|         Subdomain          |                          Challenge                           | Score | Difficulty |                           Solution                           |
+| :------------------------: | :----------------------------------------------------------: | :---: | :--------: | :----------------------------------------------------------: |
+|     Warm-up Challenges     | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant) |  10   |    Easy    |                                                              |
+|     Warm-up Challenges     | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys) |  15   |    Easy    |                                                              |
+|     Warm-up Challenges     | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds) |  20   |    Easy    |                                                              |
+|     Warm-up Challenges     | [Repeated String](https://www.hackerrank.com/challenges/repeated-string) |  20   |    Easy    |                                                              |
+|           Arrays           | [2D Array - DS](https://www.hackerrank.com/challenges/2d-array) |  15   |    Easy    |                                                              |
+|           Arrays           | [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation) |  20   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Arrays,%20Left%20Rotation) |
+|           Arrays           | [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos) |  40   |   Medium   |                                                              |
+|           Arrays           | [Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2) |  40   |   Medium   |                                                              |
+|           Arrays           | [Array Manipulation](https://www.hackerrank.com/challenges/crush) |  60   |    Hard    |                                                              |
+| Dictionaries and Hashmaps  | [Hash Tables: Ransom Note]([https://www.hackerrank.com/challenges/ctci-ransom-note/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps](https://www.hackerrank.com/challenges/ctci-ransom-note/problem?h_l=interview&playlist_slugs[]=interview-preparation-kit&playlist_slugs[]=dictionaries-hashmaps)) |  25   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Hash%20Tables,%20Ransom%20Note) |
+| Dictionaries and Hashmaps  | [Two Strings](https://www.hackerrank.com/challenges/two-strings) |  25   |    Easy    |                                                              |
+| Dictionaries and Hashmaps  | [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams) |  50   |   Medium   |                                                              |
+|          Sorting           | [Sorting: Bubble Sort](https://www.hackerrank.com/challenges/ctci-bubble-sort) |  30   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Sorting,%20Bubble%20Sort) |
+|          Sorting           | [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys) |  35   |    Easy    |                                                              |
+|          Sorting           | [Sorting: Comparator]([https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem?h_l=interview&playlist_slugs[]=interview-preparation-kit&playlist_slugs[]=sorting)) |  35   |   Medium   | [solution.py](Interview%20Preparation%20Kit/Sorting,%20Comparator) |
+|          Sorting           | [Merge Sort: Counting Inversions](https://www.hackerrank.com/challenges/ctci-merge-sort) |  45   |    Hard    |                                                              |
+|    String Manipulation     | [Strings: Making Anagrams]([https://www.hackerrank.com/challenges/ctci-making-anagrams/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem?h_l=interview&playlist_slugs[]=interview-preparation-kit&playlist_slugs[]=strings)) |  25   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Strings,%20Making%20Anagrams) |
+|    String Manipulation     | [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters) |  20   |    Easy    |                                                              |
+|     Greedy Algorithms      | [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array) |  15   |    Easy    |                                                              |
+|     Greedy Algorithms      | [Luck Balance](https://www.hackerrank.com/challenges/luck-balance) |  20   |    Easy    |                                                              |
+|     Greedy Algorithms      | [Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist) |  35   |   Medium   |                                                              |
+|     Greedy Algorithms      | [Max Min](https://www.hackerrank.com/challenges/angry-children) |  35   |   Medium   |                                                              |
+|           Search           | [Hash Tables: Ice Cream Parlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor) |  35   |   Medium   |                             next                             |
+|           Search           |     [Pairs](https://www.hackerrank.com/challenges/pairs)     |  50   |   Medium   |                                                              |
+|    Dynamic Programming     | [Max Array Sum](https://www.hackerrank.com/challenges/max-array-sum) |  20   |   Medium   |                                                              |
+|    Dynamic Programming     |   [Candies](https://www.hackerrank.com/challenges/candies)   |  50   |   Medium   |                                                              |
+|     Stacks and Queues      | [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets) |  25   |   Medium   |                                                              |
+|     Stacks and Queues      | [Queues: A Tale of Two Stacks](https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks) |  30   |   Medium   |                                                              |
+|           Graphs           | [BFS: Shortest Reach in a Graph](https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach) |  45   |    Hard    |                                                              |
+|           Graphs           | [DFS: Connected Cell in a Grid](https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid) |  45   |    Hard    |                                                              |
+|           Trees            | [Tree: Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree) |  10   |    Easy    |                                                              |
+|           Trees            | [Trees: Is This a Binary Search Tree?](https://www.hackerrank.com/challenges/ctci-is-binary-search-tree) |  30   |   Medium   |                                                              |
+|           Trees            | [Binary Search Tree: Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor) |  30   |    Easy    |                                                              |
+|        Linked Lists        | [Linked Lists: Detect a Cycle](https://www.hackerrank.com/challenges/ctci-linked-list-cycle) |  25   |    Easy    |                             next                             |
+|        Linked Lists        | [Reverse a Doubly Linked List](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list) |   5   |    Easy    |                                                              |
+|        Linked Lists        | [Find Merge Point of Two Lists](https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists) |   5   |    Easy    |                                                              |
+| Recursion and Backtracking | [Recursion: Fibonacci Numbers](https://www.hackerrank.com/challenges/ctci-fibonacci-numbers) |  15   |    Easy    |                             next                             |
+| Recursion and Backtracking | [Recursion: Davis' Staircase](https://www.hackerrank.com/challenges/ctci-recursive-staircase) |  30   |   Medium   |                                                              |
+|       Miscellaneous        | [Flipping bits](https://www.hackerrank.com/challenges/flipping-bits) |  40   |    Easy    |                                                              |
+|       Miscellaneous        | [Time Complexity: Primality](https://www.hackerrank.com/challenges/ctci-big-o) |  30   |   Medium   |                                                              |
 
 ## Python
 
@@ -331,28 +330,3 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 | Data Structures |                |                                                              |       |            |                                                              |
 | Data Structures |                |                                                              |       |            |                                                              |
 | Data Structures |                |                                                              |       |            |                                                              |
-
-## Cracking the Coding Interview
-
-|       Subdomain       |                          Challenge                           | Score | Difficulty | Solution |
-| :-------------------: | :----------------------------------------------------------: | :---: | :--------: | -------- |
-|    Data Structures    | [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation) |  20   |    Easy    |          |
-|    Data Structures    | [Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams) |  25   |    Easy    |          |
-|    Data Structures    | [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note) |  25   |    Easy    |          |
-|    Data Structures    | [Linked Lists: Detect a Cycle](https://www.hackerrank.com/challenges/ctci-linked-list-cycle) |  25   |    Easy    |          |
-|    Data Structures    | [Stacks: Balanced Brackets](https://www.hackerrank.com/challenges/ctci-balanced-brackets) |  30   |   Medium   |          |
-|    Data Structures    | [Queues: A Tale of Two Stacks](https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks) |  30   |   Medium   |          |
-|    Data Structures    | [Trees: Is This a Binary Search Tree?](https://www.hackerrank.com/challenges/ctci-is-binary-search-tree) |  30   |   Medium   |          |
-|    Data Structures    | [Heaps: Find the Running Median](https://www.hackerrank.com/challenges/ctci-find-the-running-median) |  50   |    Hard    |          |
-|    Data Structures    | [Tries: Contacts](https://www.hackerrank.com/challenges/ctci-contacts) |  50   |    Hard    |          |
-|      Algorithms       | [Sorting: Bubble Sort](https://www.hackerrank.com/challenges/ctci-bubble-sort) |  30   |   Medium   |          |
-|      Algorithms       | [Sorting: Comparator](https://www.hackerrank.com/challenges/ctci-comparator-sorting) |  35   |   Medium   |          |
-|      Algorithms       | [Merge Sort: Counting Inversions](https://www.hackerrank.com/challenges/ctci-merge-sort) |  45   |    Hard    |          |
-|      Algorithms       | [Hash Tables: Ice Cream Parlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor) |  35   |   Medium   |          |
-|      Algorithms       | [DFS: Connected Cell in a Grid](https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid) |  45   |    Hard    |          |
-|      Algorithms       | [BFS: Shortest Reach in a Graph](https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach) |  45   |    Hard    |          |
-| Techniques / Concepts | [Time Complexity: Primality](https://www.hackerrank.com/challenges/ctci-big-o) |  30   |   Medium   |          |
-| Techniques / Concepts | [Recrusion: Fibonacci Numbers](https://www.hackerrank.com/challenges/ctci-fibonacci-numbers) |  15   |    Easy    |          |
-| Techniques / Concepts | [Recursion: Davis' Staircase](https://www.hackerrank.com/challenges/ctci-recursive-staircase) |  30   |   Medium   |          |
-| Techniques / Concepts | [DP: Coin Change](https://www.hackerrank.com/challenges/ctci-coin-change) |  60   |    Hard    |          |
-| Techniques / Concepts | [Bit Manipulation: Lonely Integer](https://www.hackerrank.com/challenges/ctci-lonely-integer) |  20   |    Easy    |          |
