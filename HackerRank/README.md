@@ -27,8 +27,8 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 |  10  | [Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem) |  30   |    Easy    |   [solution.py](30%20Days%20of%20Code/Binary%20Numbers.py)   |
 |  11  | [2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem) |  30   |    Easy    |     [solution.py](30%20Days%20of%20Code/2D%20Arrays.py)      |
 |  12  | [Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem) |  30   |    Easy    |     [solution.py](30%20Days%20of%20Code/Inheritance.py)      |
-|  13  |                                                              |       |            |                                                              |
-|  14  |                                                              |       |            |                                                              |
+|  13  | [Abstract Classes](https://www.hackerrank.com/challenges/ctci-ransom-note) |  30   |    Easy    |  [solution.py](30%20Days%20of%20Code/Abstract%20Classes.py)  |
+|  14  | [Scope](https://www.hackerrank.com/challenges/30-scope/problem) |  30   |    Easy    |        [solution.py](30%20Days%20of%20Code/Scope.py)         |
 |  15  |                                                              |       |            |                                                              |
 |  16  |                                                              |       |            |                                                              |
 |  17  |                                                              |       |            |                                                              |
@@ -103,7 +103,7 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 |     Greedy Algorithms      | [Luck Balance](https://www.hackerrank.com/challenges/luck-balance) |  20   |    Easy    |                                                              |
 |     Greedy Algorithms      | [Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist) |  35   |   Medium   |                                                              |
 |     Greedy Algorithms      | [Max Min](https://www.hackerrank.com/challenges/angry-children) |  35   |   Medium   |                                                              |
-|           Search           | [Hash Tables: Ice Cream Parlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor) |  35   |   Medium   |                             next                             |
+|           Search           | [Hash Tables: Ice Cream Parlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor) |  35   |   Medium   | [solution.py](Interview%20Preparation%20Kit/Hash%20Tables%20Ice%20Cream%20Parlor.py) |
 |           Search           |     [Pairs](https://www.hackerrank.com/challenges/pairs)     |  50   |   Medium   |                                                              |
 |    Dynamic Programming     | [Max Array Sum](https://www.hackerrank.com/challenges/max-array-sum) |  20   |   Medium   |                                                              |
 |    Dynamic Programming     |   [Candies](https://www.hackerrank.com/challenges/candies)   |  50   |   Medium   |                                                              |
@@ -114,10 +114,10 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 |           Trees            | [Tree: Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree) |  10   |    Easy    |                                                              |
 |           Trees            | [Trees: Is This a Binary Search Tree?](https://www.hackerrank.com/challenges/ctci-is-binary-search-tree) |  30   |   Medium   |                                                              |
 |           Trees            | [Binary Search Tree: Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor) |  30   |    Easy    |                                                              |
-|        Linked Lists        | [Linked Lists: Detect a Cycle](https://www.hackerrank.com/challenges/ctci-linked-list-cycle) |  25   |    Easy    |                             next                             |
+|        Linked Lists        | [Linked Lists: Detect a Cycle](https://www.hackerrank.com/challenges/ctci-linked-list-cycle) |  25   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Linked%20Lists%20Detect%20a%20Cycle.py) |
 |        Linked Lists        | [Reverse a Doubly Linked List](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list) |   5   |    Easy    |                                                              |
 |        Linked Lists        | [Find Merge Point of Two Lists](https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists) |   5   |    Easy    |                                                              |
-| Recursion and Backtracking | [Recursion: Fibonacci Numbers](https://www.hackerrank.com/challenges/ctci-fibonacci-numbers) |  15   |    Easy    |                             next                             |
+| Recursion and Backtracking | [Recursion: Fibonacci Numbers](https://www.hackerrank.com/challenges/ctci-fibonacci-numbers) |  15   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Recursion%20Fibonacci%20Numbers.py) |
 | Recursion and Backtracking | [Recursion: Davis' Staircase](https://www.hackerrank.com/challenges/ctci-recursive-staircase) |  30   |   Medium   |                                                              |
 |       Miscellaneous        | [Flipping bits](https://www.hackerrank.com/challenges/flipping-bits) |  40   |    Easy    |                                                              |
 |       Miscellaneous        | [Time Complexity: Primality](https://www.hackerrank.com/challenges/ctci-big-o) |  30   |   Medium   |                                                              |
