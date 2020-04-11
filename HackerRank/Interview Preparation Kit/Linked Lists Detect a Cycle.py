@@ -9,7 +9,6 @@ A Node is defined as:
             self.next = next_node
 """
 
-
 def has_cycle(head):
     if head is None or head.next is None: return False
     # Solution without using hashmap

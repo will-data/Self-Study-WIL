@@ -29,8 +29,8 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 |  12  | [Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem) |  30   |    Easy    |     [solution.py](30%20Days%20of%20Code/Inheritance.py)      |
 |  13  | [Abstract Classes](https://www.hackerrank.com/challenges/ctci-ransom-note) |  30   |    Easy    |  [solution.py](30%20Days%20of%20Code/Abstract%20Classes.py)  |
 |  14  | [Scope](https://www.hackerrank.com/challenges/30-scope/problem) |  30   |    Easy    |        [solution.py](30%20Days%20of%20Code/Scope.py)         |
-|  15  |                                                              |       |            |                                                              |
-|  16  |                                                              |       |            |                                                              |
+|  15  | [Linked List](https://www.hackerrank.com/challenges/30-linked-list/problem) |  30   |    Easy    |    [solution.py](30%20Days%20of%20Code/Linked%20List.py)     |
+|  16  | [Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem) |  30   |    Easy    | [solution.py](30%20Days%20of%20Code%20Exceptions%20String%20to%20Integer.py) |
 |  17  |                                                              |       |            |                                                              |
 |  18  |                                                              |       |            |                                                              |
 |  19  |                                                              |       |            |                                                              |
@@ -72,10 +72,10 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 |  6   | [The Central Limit Theorem II](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-2/problem) |  30   |      Easy       | [solution.py](10%20Days%20of%20Statistics/The%20Central%20Limit%20Theorem%20II.py) |
 |  6   | [The Central Limit Theorem III](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-3/problem) |  30   |      Easy       | [solution.py](10%20Days%20of%20Statistics/The%20Central%20Limit%20Theorem%20III.py) |
 |  7   | [Pearson Correlation Coefficient I](https://www.hackerrank.com/challenges/s10-pearson-correlation-coefficient/problem) |  30   |      Easy       | [solution.py](10%20Days%20of%20Statistics/Pearson%20Correlation%20Coefficient%20I.py) |
-|  7   | [Spearman's Rank Correlation Coefficient](https://www.hackerrank.com/challenges/s10-spearman-rank-correlation-coefficient/problem) |  30   |      Easy       |                                                              |
-|  8   | [Least Square Regression Line](https://www.hackerrank.com/challenges/s10-least-square-regression-line/problem) |  30   |      Easy       |                                                              |
-|  8   |            [Pearson Correlation Coefficient II]()            |  30   | Multiple Choice |                              -                               |
-|  9   |                                                              |       |                 |                                                              |
+|  7   | [Spearman's Rank Correlation Coefficient](https://www.hackerrank.com/challenges/s10-spearman-rank-correlation-coefficient/problem) |  30   |      Easy       | [solution.py](10%20Days%20of%20Statistics/Spearman's%20Rank%20Correlation%20Coefficient.py) |
+|  8   | [Least Square Regression Line](https://www.hackerrank.com/challenges/s10-least-square-regression-line/problem) |  30   |      Easy       | [solution.R](10%20Days%20of%20Statistics/Least%20Square%20Regression%20Line.R) |
+|  8   | [Pearson Correlation Coefficient II](https://www.hackerrank.com/challenges/s10-mcq-7/problem) |  30   | Multiple Choice |                              -                               |
+|  9   | [Multiple Linear Regression](https://www.hackerrank.com/challenges/s10-multiple-linear-regression/problem) |  30   |     Medium      | [solution.R](10%20Days%20of%20Statistics/Multiple%20Linear%20Regression.R) |
 
 ## Interview Preparation Kit
 
@@ -312,13 +312,13 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 |   Algorithms    |     Warmup     | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) |   1   |    Easy    | [solution.py](Problem%20Solving/Algorithms/Solve%20Me%20First.py) |
 |   Algorithms    |     Warmup     | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Algorithms/Simple%20Array%20Sum.py) |
 |   Algorithms    |     Warmup     | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Algorithms/Compare%20the%20Triplets.py) |
-|   Algorithms    |     Warmup     |                                                              |       |            |                                                              |
-|   Algorithms    |     Warmup     |                                                              |       |            |                                                              |
-|   Algorithms    |     Warmup     |                                                              |       |            |                                                              |
-|   Algorithms    |     Warmup     |                                                              |       |            |                                                              |
-|   Algorithms    |     Warmup     |                                                              |       |            |                                                              |
-|   Algorithms    |     Warmup     |                                                              |       |            |                                                              |
-|   Algorithms    |     Warmup     |                                                              |       |            |                                                              |
+|   Algorithms    |     Warmup     | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Algorithms/A%20Very%20Big%20Sum.py) |
+|   Algorithms    |     Warmup     | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem?h_r=next-challenge&h_v=zen) |  10   |    Easy    | [solution.py](Problem%20Solving/Algorithms/Diagonal%20Difference.py) |
+|   Algorithms    |     Warmup     | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Algorithms/Plus%20Minus.py)  |
+|   Algorithms    |     Warmup     | [Staircase](https://www.hackerrank.com/challenges/staircase/problem?h_r=next-challenge&h_v=zen) |  10   |    Easy    |   [solution.py](Problem%20Solving/Algorithms/Staircase.py)   |
+|   Algorithms    |     Warmup     | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) |  10   |    Easy    | [solution.py](Problem%20Solving/Algorithms/Mini-Max%20Sum.py) |
+|   Algorithms    |     Warmup     | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Algorithms/Birthday%20Cake%20Candles.py) |
+|   Algorithms    |     Warmup     | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) |  15   |    Easy    | [solution.py](Problem%20Solving/Algorithms/Time%20Conversion.py) |
 |   Algorithms    | Implementation | [Grading Students](https://www.hackerrank.com/challenges/grading/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Algorithms/Grading%20Students.py) |
 |   Algorithms    | Implementation | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Algorithms/Apple%20and%20Orange.py) |
 |   Algorithms    | Implementation |                         [Kangaroo]()                         |  10   |    Easy    |   [solution.py](Problem%20Solving/Algorithms/Kangaroo.py)    |
