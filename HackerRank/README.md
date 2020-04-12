@@ -30,8 +30,8 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 |  13  | [Abstract Classes](https://www.hackerrank.com/challenges/ctci-ransom-note) |  30   |    Easy    |  [solution.py](30%20Days%20of%20Code/Abstract%20Classes.py)  |
 |  14  | [Scope](https://www.hackerrank.com/challenges/30-scope/problem) |  30   |    Easy    |        [solution.py](30%20Days%20of%20Code/Scope.py)         |
 |  15  | [Linked List](https://www.hackerrank.com/challenges/30-linked-list/problem) |  30   |    Easy    |    [solution.py](30%20Days%20of%20Code/Linked%20List.py)     |
-|  16  | [Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem) |  30   |    Easy    | [solution.py](30%20Days%20of%20Code%20Exceptions%20String%20to%20Integer.py) |
-|  17  |                                                              |       |            |                                                              |
+|  16  | [Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem) |  30   |    Easy    | [solution.py](30%20Days%20of%20Code/Exceptions%20String%20to%20Integer.py) |
+|  17  | [More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions/problem) |  30   |    Easy    |  [solution.py](30%20Days%20of%20Code/More%20Exceptions.py)   |
 |  18  |                                                              |       |            |                                                              |
 |  19  |                                                              |       |            |                                                              |
 |  20  |                                                              |       |            |                                                              |
@@ -81,10 +81,10 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 
 |         Subdomain          |                          Challenge                           | Score | Difficulty |                           Solution                           |
 | :------------------------: | :----------------------------------------------------------: | :---: | :--------: | :----------------------------------------------------------: |
-|     Warm-up Challenges     | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant) |  10   |    Easy    |                                                              |
-|     Warm-up Challenges     | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys) |  15   |    Easy    |                                                              |
-|     Warm-up Challenges     | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds) |  20   |    Easy    |                                                              |
-|     Warm-up Challenges     | [Repeated String](https://www.hackerrank.com/challenges/repeated-string) |  20   |    Easy    |                                                              |
+|     Warm-up Challenges     | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant) |  10   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Sock%20Merchant.py) |
+|     Warm-up Challenges     | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys) |  15   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Counting%20Valleys.py) |
+|     Warm-up Challenges     | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds) |  20   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Jumping%20on%20the%20Clouds.py) |
+|     Warm-up Challenges     | [Repeated String](https://www.hackerrank.com/challenges/repeated-string) |  20   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Repeated%20String.py) |
 |           Arrays           | [2D Array - DS](https://www.hackerrank.com/challenges/2d-array) |  15   |    Easy    |                                                              |
 |           Arrays           | [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation) |  20   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Arrays%20Left%20Rotation.py) |
 |           Arrays           | [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos) |  40   |   Medium   |                                                              |
@@ -111,9 +111,11 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 |     Stacks and Queues      | [Queues: A Tale of Two Stacks](https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks) |  30   |   Medium   |                                                              |
 |           Graphs           | [BFS: Shortest Reach in a Graph](https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach) |  45   |    Hard    |                                                              |
 |           Graphs           | [DFS: Connected Cell in a Grid](https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid) |  45   |    Hard    |                                                              |
-|           Trees            | [Tree: Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree) |  10   |    Easy    |                                                              |
-|           Trees            | [Trees: Is This a Binary Search Tree?](https://www.hackerrank.com/challenges/ctci-is-binary-search-tree) |  30   |   Medium   |                                                              |
+|           Trees            | [Tree: Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree) |  10   |    Easy    | [solution.py](Problem%20Solving/Data%20Structures/Tree%Height%20of%20a%20Binary%20Tree.py) |
 |           Trees            | [Binary Search Tree: Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor) |  30   |    Easy    |                                                              |
+|           Trees            | [Trees: Is This a Binary Search Tree?](https://www.hackerrank.com/challenges/ctci-is-binary-search-tree) |  30   |   Medium   |                                                              |
+|           Trees            | [Tree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding) |  20   |   Medium   |                                                              |
+|           Trees            | [Balanced Forest](https://www.hackerrank.com/challenges/balanced-forest) |  60   |    Hard    |                                                              |
 |        Linked Lists        | [Linked Lists: Detect a Cycle](https://www.hackerrank.com/challenges/ctci-linked-list-cycle) |  25   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Linked%20Lists%20Detect%20a%20Cycle.py) |
 |        Linked Lists        | [Reverse a Doubly Linked List](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list) |   5   |    Easy    |                                                              |
 |        Linked Lists        | [Find Merge Point of Two Lists](https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists) |   5   |    Easy    |                                                              |
@@ -326,7 +328,9 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 |   Algorithms    | Implementation |                                                              |       |            |                                                              |
 |   Algorithms    |    Strings     |                                                              |       |            |                                                              |
 | Data Structures |                |                                                              |       |            |                                                              |
+| Data Structures |     Trees      | [Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Data%20Structures/Tree%20Preorder%20Traversal.py) |
+| Data Structures |     Trees      | [Tree: Postorder Traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Data%20Structures/Tree%20Postorder%20Traversal.py) |
+| Data Structures |     Trees      | [Tree: Inorder Traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Data%20Structures/Tree%20Inorder%20Traversal.py) |
+| Data Structures |     Trees      | [Tree: Height of a Binary Tree]([https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=trees](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem?h_l=interview&playlist_slugs[]=interview-preparation-kit&playlist_slugs[]=trees)) |  10   |    Easy    | [solution.py](Problem%20Solving/Data%20Structures/Tree%Height%20of%20a%20Binary%20Tree.py) |
 | Data Structures |                |                                                              |       |            |                                                              |
-| Data Structures |                |                                                              |       |            |                                                              |
-| Data Structures |                |                                                              |       |            |                                                              |
-| Data Structures |                |                                                              |       |            |                                                              |
+|                 |                |                                                              |       |            |                                                              |
