@@ -32,10 +32,10 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 |  15  | [Linked List](https://www.hackerrank.com/challenges/30-linked-list/problem) |  30   |    Easy    |    [solution.py](30%20Days%20of%20Code/Linked%20List.py)     |
 |  16  | [Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem) |  30   |    Easy    | [solution.py](30%20Days%20of%20Code/Exceptions%20String%20to%20Integer.py) |
 |  17  | [More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions/problem) |  30   |    Easy    |  [solution.py](30%20Days%20of%20Code/More%20Exceptions.py)   |
-|  18  |                                                              |       |            |                                                              |
-|  19  |                                                              |       |            |                                                              |
-|  20  |                                                              |       |            |                                                              |
-|  21  |                                                              |       |            |                                                              |
+|  18  | [Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks/problem) |  30   |    Easy    | [solution.py](30%20Days%20of%20Code/Queues%20and%20Stacks.py) |
+|  19  | [Interfaces](https://www.hackerrank.com/challenges/30-interfaces/problem) |  30   |    Easy    |      [solution.py](30%20Days%20of%20Code/Interfaces.py)      |
+|  20  | [Sorting](https://www.hackerrank.com/challenges/30-sorting/problem?h_r=next-challenge&h_v=zen) |  30   |    Easy    |       [solution.py](30%20Days%20of%20Code/Sorting.py)        |
+|  21  | [Generics](https://www.hackerrank.com/challenges/30-generics/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) |  30   |    Easy    |                   Python - Not  Available                    |
 |  22  |                                                              |       |            |                                                              |
 |  23  |                                                              |       |            |                                                              |
 |  24  |                                                              |       |            |                                                              |
@@ -85,9 +85,9 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 |     Warm-up Challenges     | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys) |  15   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Counting%20Valleys.py) |
 |     Warm-up Challenges     | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds) |  20   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Jumping%20on%20the%20Clouds.py) |
 |     Warm-up Challenges     | [Repeated String](https://www.hackerrank.com/challenges/repeated-string) |  20   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Repeated%20String.py) |
-|           Arrays           | [2D Array - DS](https://www.hackerrank.com/challenges/2d-array) |  15   |    Easy    |                                                              |
+|           Arrays           | [2D Array - DS](https://www.hackerrank.com/challenges/2d-array) |  15   |    Easy    | [solution.py](Interview%20Preparation%20Kit/2D%20Array%20DS.py) |
 |           Arrays           | [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation) |  20   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Arrays%20Left%20Rotation.py) |
-|           Arrays           | [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos) |  40   |   Medium   |                                                              |
+|           Arrays           | [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos) |  40   |   Medium   | [solution.py](Interview%20Preparation%20Kit/New%20Year%20Chaos.py) |
 |           Arrays           | [Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2) |  40   |   Medium   |                                                              |
 |           Arrays           | [Array Manipulation](https://www.hackerrank.com/challenges/crush) |  60   |    Hard    |                                                              |
 | Dictionaries and Hashmaps  | [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note) |  25   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Hash%20Tables%20Ransom%20Note.py) |
@@ -111,7 +111,7 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 |     Stacks and Queues      | [Queues: A Tale of Two Stacks](https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks) |  30   |   Medium   |                                                              |
 |           Graphs           | [BFS: Shortest Reach in a Graph](https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach) |  45   |    Hard    |                                                              |
 |           Graphs           | [DFS: Connected Cell in a Grid](https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid) |  45   |    Hard    |                                                              |
-|           Trees            | [Tree: Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree) |  10   |    Easy    | [solution.py](Problem%20Solving/Data%20Structures/Tree%Height%20of%20a%20Binary%20Tree.py) |
+|           Trees            | [Tree: Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree) |  10   |    Easy    | [solution.py](Problem%20Solving/Data%20Structures/Tree%20Height%20of%20a%20Binary%20Tree.py) |
 |           Trees            | [Binary Search Tree: Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor) |  30   |    Easy    |                                                              |
 |           Trees            | [Trees: Is This a Binary Search Tree?](https://www.hackerrank.com/challenges/ctci-is-binary-search-tree) |  30   |   Medium   |                                                              |
 |           Trees            | [Tree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding) |  20   |   Medium   |                                                              |
@@ -331,6 +331,6 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 | Data Structures |     Trees      | [Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Data%20Structures/Tree%20Preorder%20Traversal.py) |
 | Data Structures |     Trees      | [Tree: Postorder Traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Data%20Structures/Tree%20Postorder%20Traversal.py) |
 | Data Structures |     Trees      | [Tree: Inorder Traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Data%20Structures/Tree%20Inorder%20Traversal.py) |
-| Data Structures |     Trees      | [Tree: Height of a Binary Tree]([https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=trees](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem?h_l=interview&playlist_slugs[]=interview-preparation-kit&playlist_slugs[]=trees)) |  10   |    Easy    | [solution.py](Problem%20Solving/Data%20Structures/Tree%Height%20of%20a%20Binary%20Tree.py) |
+| Data Structures |     Trees      | [Tree: Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Data%20Structures/Tree%20Height%20of%20a%20Binary%20Tree.py) |
 | Data Structures |                |                                                              |       |            |                                                              |
 |                 |                |                                                              |       |            |                                                              |
