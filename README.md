@@ -25,7 +25,3 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 * [Python](HackerRank)
 * [SQL](HackerRank)
 * [Problem Solving](HackerRank)
-* [Cracking the Coding Interview](HackerRank)
-
-
-
