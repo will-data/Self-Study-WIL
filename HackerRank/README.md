@@ -36,8 +36,8 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 |  19  | [Interfaces](https://www.hackerrank.com/challenges/30-interfaces/problem) |  30   |    Easy    |      [solution.py](30%20Days%20of%20Code/Interfaces.py)      |
 |  20  | [Sorting](https://www.hackerrank.com/challenges/30-sorting/problem?h_r=next-challenge&h_v=zen) |  30   |    Easy    |       [solution.py](30%20Days%20of%20Code/Sorting.py)        |
 |  21  | [Generics](https://www.hackerrank.com/challenges/30-generics/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) |  30   |    Easy    |                   Python - Not  Available                    |
-|  22  |                                                              |       |            |                                                              |
-|  23  |                                                              |       |            |                                                              |
+|  22  | [Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees/problem) |  30   |    Easy    | [solution.py](30%20Days%20of%20Code/Binary%20Search%20Trees.py) |
+|  23  | [BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees/problem) |  30   |    Easy    | [solution.py](30%20Days%20of%20Code/BST%20Level%20Order%20Traversal.py) |
 |  24  |                                                              |       |            |                                                              |
 |  25  |                                                              |       |            |                                                              |
 |  26  |                                                              |       |            |                                                              |
@@ -91,7 +91,7 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 |           Arrays           | [Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2) |  40   |   Medium   |                                                              |
 |           Arrays           | [Array Manipulation](https://www.hackerrank.com/challenges/crush) |  60   |    Hard    |                                                              |
 | Dictionaries and Hashmaps  | [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note) |  25   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Hash%20Tables%20Ransom%20Note.py) |
-| Dictionaries and Hashmaps  | [Two Strings](https://www.hackerrank.com/challenges/two-strings) |  25   |    Easy    |                                                              |
+| Dictionaries and Hashmaps  | [Two Strings](https://www.hackerrank.com/challenges/two-strings) |  25   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Two%20Strings.py) |
 | Dictionaries and Hashmaps  | [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams) |  50   |   Medium   |                                                              |
 |          Sorting           | [Sorting: Bubble Sort](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem) |  30   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Sorting%20Bubble%20Sort.py) |
 |          Sorting           | [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys) |  35   |    Easy    |                                                              |
@@ -99,7 +99,7 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 |          Sorting           | [Merge Sort: Counting Inversions](https://www.hackerrank.com/challenges/ctci-merge-sort) |  45   |    Hard    |                                                              |
 |    String Manipulation     | [Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem) |  25   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Strings%20Making%20Anagrams.py) |
 |    String Manipulation     | [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters) |  20   |    Easy    |                                                              |
-|     Greedy Algorithms      | [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array) |  15   |    Easy    |                                                              |
+|     Greedy Algorithms      | [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array) |  15   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Minimum%20Absolute%20Difference%20in%20an%20Array.py) |
 |     Greedy Algorithms      | [Luck Balance](https://www.hackerrank.com/challenges/luck-balance) |  20   |    Easy    |                                                              |
 |     Greedy Algorithms      | [Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist) |  35   |   Medium   |                                                              |
 |     Greedy Algorithms      | [Max Min](https://www.hackerrank.com/challenges/angry-children) |  35   |   Medium   |                                                              |
@@ -326,7 +326,9 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 |   Algorithms    | Implementation |                         [Kangaroo]()                         |  10   |    Easy    |   [solution.py](Problem%20Solving/Algorithms/Kangaroo.py)    |
 |   Algorithms    | Implementation | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Algorithms/Between%20Two%20Sets.py) |
 |   Algorithms    | Implementation |                                                              |       |            |                                                              |
+|   Algorithms    |    Strings     | [Two Strings](https://www.hackerrank.com/challenges/two-strings) |  25   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Two%20Strings.py) |
 |   Algorithms    |    Strings     |                                                              |       |            |                                                              |
+|   Algorithms    |     Greedy     | [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array) |  15   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Minimum%20Absolute%20Difference%20in%20an%20Array.py) |
 | Data Structures |                |                                                              |       |            |                                                              |
 | Data Structures |     Trees      | [Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Data%20Structures/Tree%20Preorder%20Traversal.py) |
 | Data Structures |     Trees      | [Tree: Postorder Traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Data%20Structures/Tree%20Postorder%20Traversal.py) |
