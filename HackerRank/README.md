@@ -38,8 +38,8 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 |  21  | [Generics](https://www.hackerrank.com/challenges/30-generics/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) |  30   |    Easy    |                   Python - Not  Available                    |
 |  22  | [Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees/problem) |  30   |    Easy    | [solution.py](30%20Days%20of%20Code/Binary%20Search%20Trees.py) |
 |  23  | [BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees/problem) |  30   |    Easy    | [solution.py](30%20Days%20of%20Code/BST%20Level%20Order%20Traversal.py) |
-|  24  |                                                              |       |            |                                                              |
-|  25  |                                                              |       |            |                                                              |
+|  24  | [More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem) |  30   |    Easy    | [solution.py](30%20Days%20of%20Code/More%20Linked%20Lists.py) |
+|  25  | [Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem) |  30   |   Medium   | [solution.py](30%20Days%20of%20Code/Running%20Time%20and%20Complexity.py) |
 |  26  |                                                              |       |            |                                                              |
 |  27  |                                                              |       |            |                                                              |
 |  28  |                                                              |       |            |                                                              |
@@ -334,5 +334,6 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 | Data Structures |     Trees      | [Tree: Postorder Traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Data%20Structures/Tree%20Postorder%20Traversal.py) |
 | Data Structures |     Trees      | [Tree: Inorder Traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Data%20Structures/Tree%20Inorder%20Traversal.py) |
 | Data Structures |     Trees      | [Tree: Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Data%20Structures/Tree%20Height%20of%20a%20Binary%20Tree.py) |
+| Data Structures |     Trees      | [Tree: Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem) |  30   |    Easy    | [solution.py](30%20Days%20of%20Code/Tree%20Level%20Order%20Traversal.py) |
 | Data Structures |                |                                                              |       |            |                                                              |
-|                 |                |                                                              |       |            |                                                              |
+| Data Structures |                |                                                              |       |            |                                                              |
