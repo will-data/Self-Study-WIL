@@ -40,10 +40,10 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 |  23  | [BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees/problem) |  30   |    Easy    | [solution.py](30%20Days%20of%20Code/BST%20Level%20Order%20Traversal.py) |
 |  24  | [More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem) |  30   |    Easy    | [solution.py](30%20Days%20of%20Code/More%20Linked%20Lists.py) |
 |  25  | [Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem) |  30   |   Medium   | [solution.py](30%20Days%20of%20Code/Running%20Time%20and%20Complexity.py) |
-|  26  |                                                              |       |            |                                                              |
-|  27  |                                                              |       |            |                                                              |
-|  28  |                                                              |       |            |                                                              |
-|  29  |                                                              |       |            |                                                              |
+|  26  | [Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic/problem) |  30   |    Easy    |    [solution.py](30%20Days%20of%20Code/Nested%20Logic.py)    |
+|  27  | [Testing](https://www.hackerrank.com/challenges/30-testing/problem) |  30   |    Easy    |       [solution.py](30%20Days%20of%20Code/Testing.py)        |
+|  28  | [RegEx, Patterns, and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns/problem) |  30   |   Medium   | [solution.py](30%20Days%20of%20Code/RegEx,%20Patterns,%20and%20Intro%20to%20Databases.py) |
+|  29  |                       [Bitwise AND]()                        |  30   |   Medium   |    [solution.py](30%20Days%20of%20Code/Bitwise%20AND.py)     |
 
 ## 10 Days of Statistics
 
