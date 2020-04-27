@@ -6,9 +6,9 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 * [30 Days of Code](#30-days-of-cde)
 * [10 Days of Statistics](#10-days-of-statistics)
 * [Interview Preparation Kit](#interview-preparation-kit)
+* [Problem Solving](#problem-solving)
 * [Python](#Python)
 * [SQL](#SQL)
-* [Problem Solving](#problem-solving)
 
 ## 30 Days of Code
 
@@ -88,17 +88,19 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 |           Arrays           | [2D Array - DS](https://www.hackerrank.com/challenges/2d-array) |  15   |    Easy    | [solution.py](Interview%20Preparation%20Kit/2D%20Array%20DS.py) |
 |           Arrays           | [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation) |  20   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Arrays%20Left%20Rotation.py) |
 |           Arrays           | [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos) |  40   |   Medium   | [solution.py](Interview%20Preparation%20Kit/New%20Year%20Chaos.py) |
-|           Arrays           | [Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2) |  40   |   Medium   |                                                              |
+|           Arrays           | [Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2) |  40   |   Medium   | [solution.py](Interview%20Preparation%20Kit/Minimum%20Swaps%202.py) |
 |           Arrays           | [Array Manipulation](https://www.hackerrank.com/challenges/crush) |  60   |    Hard    |                                                              |
 | Dictionaries and Hashmaps  | [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note) |  25   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Hash%20Tables%20Ransom%20Note.py) |
 | Dictionaries and Hashmaps  | [Two Strings](https://www.hackerrank.com/challenges/two-strings) |  25   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Two%20Strings.py) |
 | Dictionaries and Hashmaps  | [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams) |  50   |   Medium   |                                                              |
 |          Sorting           | [Sorting: Bubble Sort](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem) |  30   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Sorting%20Bubble%20Sort.py) |
-|          Sorting           | [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys) |  35   |    Easy    |                                                              |
+|          Sorting           | [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys) |  35   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Mark%20and%20Toys.py) |
 |          Sorting           | [Sorting: Comparator](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem) |  35   |   Medium   | [solution.py](Interview%20Preparation%20Kit/Sorting%20Comparator.py) |
 |          Sorting           | [Merge Sort: Counting Inversions](https://www.hackerrank.com/challenges/ctci-merge-sort) |  45   |    Hard    |                                                              |
 |    String Manipulation     | [Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem) |  25   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Strings%20Making%20Anagrams.py) |
-|    String Manipulation     | [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters) |  20   |    Easy    |                                                              |
+|    String Manipulation     | [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters) |  20   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Alternating%20Charcters.py) |
+|    String Manipulation     |                                                              |       |            |                                                              |
+|    String Manipulation     |                                                              |       |            |                                                              |
 |     Greedy Algorithms      | [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array) |  15   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Minimum%20Absolute%20Difference%20in%20an%20Array.py) |
 |     Greedy Algorithms      | [Luck Balance](https://www.hackerrank.com/challenges/luck-balance) |  20   |    Easy    |                                                              |
 |     Greedy Algorithms      | [Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist) |  35   |   Medium   |                                                              |
@@ -109,7 +111,7 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 |    Dynamic Programming     |   [Candies](https://www.hackerrank.com/challenges/candies)   |  50   |   Medium   |                                                              |
 |     Stacks and Queues      | [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets) |  25   |   Medium   |                                                              |
 |     Stacks and Queues      | [Queues: A Tale of Two Stacks](https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks) |  30   |   Medium   |                                                              |
-|           Graphs           | [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development/problem) |  30   |   Medium   | [solution.py](Interview%20Preparation%20Kit/Roads%20and%Libraries.py) |
+|           Graphs           | [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development/problem) |  30   |   Medium   | [solution.py](Interview%20Preparation%20Kit/Roads%20and%20Libraries.py) |
 |           Graphs           |                                                              |       |            |                                                              |
 |           Graphs           |                                                              |       |            |                                                              |
 |           Graphs           | [BFS: Shortest Reach in a Graph](https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach) |  45   |    Hard    |                                                              |
@@ -126,6 +128,40 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 | Recursion and Backtracking | [Recursion: Davis' Staircase](https://www.hackerrank.com/challenges/ctci-recursive-staircase) |  30   |   Medium   |                                                              |
 |       Miscellaneous        | [Flipping bits](https://www.hackerrank.com/challenges/flipping-bits) |  40   |    Easy    |                                                              |
 |       Miscellaneous        | [Time Complexity: Primality](https://www.hackerrank.com/challenges/ctci-big-o) |  30   |   Medium   |                                                              |
+
+## Problem Solving
+
+|     Domain      |   Subdomain    |                          Challenge                           | Score | Difficulty |                           Solution                           |
+| :-------------: | :------------: | :----------------------------------------------------------: | :---: | :--------: | :----------------------------------------------------------: |
+|   Algorithms    |     Warmup     | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) |   1   |    Easy    | [solution.py](Problem%20Solving/Algorithms/Solve%20Me%20First.py) |
+|   Algorithms    |     Warmup     | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Algorithms/Simple%20Array%20Sum.py) |
+|   Algorithms    |     Warmup     | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Algorithms/Compare%20the%20Triplets.py) |
+|   Algorithms    |     Warmup     | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Algorithms/A%20Very%20Big%20Sum.py) |
+|   Algorithms    |     Warmup     | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem?h_r=next-challenge&h_v=zen) |  10   |    Easy    | [solution.py](Problem%20Solving/Algorithms/Diagonal%20Difference.py) |
+|   Algorithms    |     Warmup     | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Algorithms/Plus%20Minus.py)  |
+|   Algorithms    |     Warmup     | [Staircase](https://www.hackerrank.com/challenges/staircase/problem?h_r=next-challenge&h_v=zen) |  10   |    Easy    |   [solution.py](Problem%20Solving/Algorithms/Staircase.py)   |
+|   Algorithms    |     Warmup     | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) |  10   |    Easy    | [solution.py](Problem%20Solving/Algorithms/Mini-Max%20Sum.py) |
+|   Algorithms    |     Warmup     | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Algorithms/Birthday%20Cake%20Candles.py) |
+|   Algorithms    |     Warmup     | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) |  15   |    Easy    | [solution.py](Problem%20Solving/Algorithms/Time%20Conversion.py) |
+|   Algorithms    | Implementation | [Grading Students](https://www.hackerrank.com/challenges/grading/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Algorithms/Grading%20Students.py) |
+|   Algorithms    | Implementation | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Algorithms/Apple%20and%20Orange.py) |
+|   Algorithms    | Implementation |                         [Kangaroo]()                         |  10   |    Easy    |   [solution.py](Problem%20Solving/Algorithms/Kangaroo.py)    |
+|   Algorithms    | Implementation | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Algorithms/Between%20Two%20Sets.py) |
+|   Algorithms    | Implementation |                                                              |       |            |                                                              |
+|   Algorithms    |    Strings     | [Two Strings](https://www.hackerrank.com/challenges/two-strings) |  25   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Two%20Strings.py) |
+|   Algorithms    |    Strings     | [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem) |  20   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Alternating%20Charcters.py) |
+|   Algorithms    |    Strings     |                                                              |       |            |                                                              |
+|   Algorithms    |     Greedy     | [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array) |  15   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Minimum%20Absolute%20Difference%20in%20an%20Array.py) |
+|   Algorithms    |     Greedy     | [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys) |  35   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Mark%20and%20Toys.py) |
+|   Algorithms    |  Graph Theory  | [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development/problem) |  30   |   Medium   | [solution.py](Interview%20Preparation%20Kit/Roads%20and%Libraries.py) |
+| Data Structures |                |                                                              |       |            |                                                              |
+| Data Structures |     Trees      | [Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Data%20Structures/Tree%20Preorder%20Traversal.py) |
+| Data Structures |     Trees      | [Tree: Postorder Traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Data%20Structures/Tree%20Postorder%20Traversal.py) |
+| Data Structures |     Trees      | [Tree: Inorder Traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Data%20Structures/Tree%20Inorder%20Traversal.py) |
+| Data Structures |     Trees      | [Tree: Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Data%20Structures/Tree%20Height%20of%20a%20Binary%20Tree.py) |
+| Data Structures |     Trees      | [Tree: Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem) |  30   |    Easy    | [solution.py](30%20Days%20of%20Code/Tree%20Level%20Order%20Traversal.py) |
+| Data Structures |                |                                                              |       |            |                                                              |
+| Data Structures |                |                                                              |       |            |                                                              |
 
 ## Python
 
@@ -309,35 +345,3 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 | Alternative Queries | [Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1) |  25   |    Easy    |          |
 | Alternative Queries | [Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2) |  25   |    Easy    |          |
 | Alternative Queries | [Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers) |  40   |   Medium   |          |
-
-## Problem Solving
-
-|     Domain      |   Subdomain    |                          Challenge                           | Score | Difficulty |                           Solution                           |
-| :-------------: | :------------: | :----------------------------------------------------------: | :---: | :--------: | :----------------------------------------------------------: |
-|   Algorithms    |     Warmup     | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) |   1   |    Easy    | [solution.py](Problem%20Solving/Algorithms/Solve%20Me%20First.py) |
-|   Algorithms    |     Warmup     | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Algorithms/Simple%20Array%20Sum.py) |
-|   Algorithms    |     Warmup     | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Algorithms/Compare%20the%20Triplets.py) |
-|   Algorithms    |     Warmup     | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Algorithms/A%20Very%20Big%20Sum.py) |
-|   Algorithms    |     Warmup     | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem?h_r=next-challenge&h_v=zen) |  10   |    Easy    | [solution.py](Problem%20Solving/Algorithms/Diagonal%20Difference.py) |
-|   Algorithms    |     Warmup     | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Algorithms/Plus%20Minus.py)  |
-|   Algorithms    |     Warmup     | [Staircase](https://www.hackerrank.com/challenges/staircase/problem?h_r=next-challenge&h_v=zen) |  10   |    Easy    |   [solution.py](Problem%20Solving/Algorithms/Staircase.py)   |
-|   Algorithms    |     Warmup     | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) |  10   |    Easy    | [solution.py](Problem%20Solving/Algorithms/Mini-Max%20Sum.py) |
-|   Algorithms    |     Warmup     | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Algorithms/Birthday%20Cake%20Candles.py) |
-|   Algorithms    |     Warmup     | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) |  15   |    Easy    | [solution.py](Problem%20Solving/Algorithms/Time%20Conversion.py) |
-|   Algorithms    | Implementation | [Grading Students](https://www.hackerrank.com/challenges/grading/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Algorithms/Grading%20Students.py) |
-|   Algorithms    | Implementation | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Algorithms/Apple%20and%20Orange.py) |
-|   Algorithms    | Implementation |                         [Kangaroo]()                         |  10   |    Easy    |   [solution.py](Problem%20Solving/Algorithms/Kangaroo.py)    |
-|   Algorithms    | Implementation | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Algorithms/Between%20Two%20Sets.py) |
-|   Algorithms    | Implementation |                                                              |       |            |                                                              |
-|   Algorithms    |    Strings     | [Two Strings](https://www.hackerrank.com/challenges/two-strings) |  25   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Two%20Strings.py) |
-|   Algorithms    |    Strings     |                                                              |       |            |                                                              |
-|   Algorithms    |     Greedy     | [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array) |  15   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Minimum%20Absolute%20Difference%20in%20an%20Array.py) |
-|   Algorithms    |  Graph Theory  | [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development/problem) |  30   |   Medium   | [solution.py](Interview%20Preparation%20Kit/Roads%20and%Libraries.py) |
-| Data Structures |                |                                                              |       |            |                                                              |
-| Data Structures |     Trees      | [Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Data%20Structures/Tree%20Preorder%20Traversal.py) |
-| Data Structures |     Trees      | [Tree: Postorder Traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Data%20Structures/Tree%20Postorder%20Traversal.py) |
-| Data Structures |     Trees      | [Tree: Inorder Traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Data%20Structures/Tree%20Inorder%20Traversal.py) |
-| Data Structures |     Trees      | [Tree: Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Data%20Structures/Tree%20Height%20of%20a%20Binary%20Tree.py) |
-| Data Structures |     Trees      | [Tree: Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem) |  30   |    Easy    | [solution.py](30%20Days%20of%20Code/Tree%20Level%20Order%20Traversal.py) |
-| Data Structures |                |                                                              |       |            |                                                              |
-| Data Structures |                |                                                              |       |            |                                                              |
