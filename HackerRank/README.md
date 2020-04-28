@@ -92,6 +92,8 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 |           Arrays           | [Array Manipulation](https://www.hackerrank.com/challenges/crush) |  60   |    Hard    |                                                              |
 | Dictionaries and Hashmaps  | [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note) |  25   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Hash%20Tables%20Ransom%20Note.py) |
 | Dictionaries and Hashmaps  | [Two Strings](https://www.hackerrank.com/challenges/two-strings) |  25   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Two%20Strings.py) |
+| Dictionaries and Hashmaps  | [Count Triplets](https://www.hackerrank.com/challenges/count-triplets-1) |  35   |   Medium   | [solution.py](Interview%20Preparation%20Kit/Count%20Triplets.py) |
+| Dictionaries and Hashmaps  |                                                              |       |            |                                                              |
 | Dictionaries and Hashmaps  | [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams) |  50   |   Medium   |                                                              |
 |          Sorting           | [Sorting: Bubble Sort](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem) |  30   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Sorting%20Bubble%20Sort.py) |
 |          Sorting           | [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys) |  35   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Mark%20and%20Toys.py) |
@@ -149,7 +151,7 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 |   Algorithms    | Implementation | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Algorithms/Between%20Two%20Sets.py) |
 |   Algorithms    | Implementation |                                                              |       |            |                                                              |
 |   Algorithms    |    Strings     | [Two Strings](https://www.hackerrank.com/challenges/two-strings) |  25   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Two%20Strings.py) |
-|   Algorithms    |    Strings     | [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem) |  20   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Alternating%20Charcters.py) |
+|   Algorithms    |    Strings     | [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem) |  20   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Alternating%20Characters.py) |
 |   Algorithms    |    Strings     |                                                              |       |            |                                                              |
 |   Algorithms    |     Greedy     | [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array) |  15   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Minimum%20Absolute%20Difference%20in%20an%20Array.py) |
 |   Algorithms    |     Greedy     | [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys) |  35   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Mark%20and%20Toys.py) |
