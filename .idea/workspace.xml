@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76ccfade-1406-4ad4-b7d9-bff93a680599" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/HackerRank/30 Days of Code/Interfaces.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/30 Days of Code/Sorting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/Interview Preparation Kit/2D Array DS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/Interview Preparation Kit/New Year Chaos.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/30 Days of Code/Queues and Stacks.py" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/30 Days of Code/Queues and Stacks.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HackerRank/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -19,112 +14,46 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Tree Preorder Traversal.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HackerRank/Problem Solving/Data Structures/Tree Preorder Traversal.py">
+    <leaf>
+      <file leaf-file-name="Iron Stick.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Iron Stick.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Phone Numbers List.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Phone Numbers List.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Lifeboat.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Lifeboat.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LZW Compression.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Etc/LZW Compression.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="266">
-              <caret line="43" column="3" lean-forward="true" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
-              <folding>
-                <element signature="e#50#143#0" />
-                <element signature="e#176#197#0" />
-                <element signature="e#228#944#0" />
-              </folding>
+              <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Tree Inorder Traversal.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HackerRank/Problem Solving/Data Structures/Tree Inorder Traversal.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="63" column="18" selection-start-line="63" selection-start-column="18" selection-end-line="63" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Tree Height of a Binary Tree.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HackerRank/Problem Solving/Data Structures/Tree Height of a Binary Tree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Queues and Stacks.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HackerRank/30 Days of Code/Queues and Stacks.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Interfaces.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HackerRank/30 Days of Code/Interfaces.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Sorting.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HackerRank/30 Days of Code/Sorting.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2D Array DS.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HackerRank/Interview Preparation Kit/2D Array DS.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-              <folding>
-                <element signature="e#16#27#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="New Year Chaos.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HackerRank/Interview Preparation Kit/New Year Chaos.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-              <folding>
-                <element signature="e#16#27#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Inheritance.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HackerRank/30 Days of Code/Inheritance.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="722">
-              <caret line="38" column="14" lean-forward="true" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Tree Postorder Traversal.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HackerRank/Problem Solving/Data Structures/Tree Postorder Traversal.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="33" lean-forward="true" selection-start-line="10" selection-end-line="16" selection-end-column="33" />
-              <folding>
-                <element signature="e#176#197#0" />
-              </folding>
-            </state>
-          </provider>
+      <file leaf-file-name="Breaking the Records.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HackerRank/Problem Solving/Algorithms/Breaking the Records.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -142,29 +71,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/HackerRank/Problem Solving/Algorithms/Between Two Sets.py" />
-        <option value="$PROJECT_DIR$/HackerRank/Problem Solving/Algorithms/Geometric Distribution I.py" />
-        <option value="$PROJECT_DIR$/HackerRank/Problem Solving/Algorithms/Geometric Distribution II.py" />
-        <option value="$PROJECT_DIR$/HackerRank/10 Days of Statistics/Poission Distribution I.py" />
-        <option value="$PROJECT_DIR$/HackerRank/10 Days of Statistics/Poisson Distribution I.py" />
-        <option value="$PROJECT_DIR$/HackerRank/10 Days of Statistics/Poisson Distribution II.py" />
-        <option value="$PROJECT_DIR$/HackerRank/10 Days of Statistics/Normal Distribution I.py" />
-        <option value="$PROJECT_DIR$/HackerRank/10 Days of Statistics/Normal Distribution II.py" />
-        <option value="$PROJECT_DIR$/HackerRank/30 Days of Code/Binary Numbers.py" />
-        <option value="$PROJECT_DIR$/HackerRank/30 Days of Code/2D Arrays.py" />
-        <option value="$PROJECT_DIR$/HackerRank/10 Days of Statistics/The Central Limit Theorem I.py" />
-        <option value="$PROJECT_DIR$/HackerRank/10 Days of Statistics/The Central Limit Theorem II.py" />
-        <option value="$PROJECT_DIR$/HackerRank/10 Days of Statistics/The Central Limit Theorem III.py" />
-        <option value="$PROJECT_DIR$/HackerRank/30 Days of Code/Inheritance.py" />
-        <option value="$PROJECT_DIR$/HackerRank/Interview Preparation Kit/Arrays, Left Rotation.py" />
-        <option value="$PROJECT_DIR$/HackerRank/Interview Preparation Kit/Hash Tables, Ransom Note.py" />
-        <option value="$PROJECT_DIR$/HackerRank/Interview Preparation Kit/Sorting, Bubble Sort.py" />
-        <option value="$PROJECT_DIR$/HackerRank/Interview Preparation Kit/Sorting, Comparator.py" />
-        <option value="$PROJECT_DIR$/HackerRank/Interview Preparation Kit/Strings, Making Anagrams.py" />
-        <option value="$PROJECT_DIR$/HackerRank/30 Days of Code/Abstract Classes.py" />
-        <option value="$PROJECT_DIR$/HackerRank/30 Days of Code/Scope.py" />
-        <option value="$PROJECT_DIR$/HackerRank/Interview Preparation Kit/Hash Tables Ice Cream Parlor.py" />
-        <option value="$PROJECT_DIR$/HackerRank/Interview Preparation Kit/Recursion Fibonacci Numbers.py" />
         <option value="$PROJECT_DIR$/HackerRank/Interview Preparation Kit/Linked Lists Detect a Cycle.py" />
         <option value="$PROJECT_DIR$/HackerRank/30 Days of Code/Linked List.py" />
         <option value="$PROJECT_DIR$/HackerRank/Problem Solving/Algorithms/A Very Big Sum.py" />
@@ -193,14 +99,37 @@
         <option value="$PROJECT_DIR$/HackerRank/Interview Preparation Kit/2D Array - DS.py" />
         <option value="$PROJECT_DIR$/HackerRank/Interview Preparation Kit/2D Array DS.py" />
         <option value="$PROJECT_DIR$/HackerRank/Interview Preparation Kit/New Year Chaos.py" />
+        <option value="$PROJECT_DIR$/HackerRank/30 Days of Code/Binary Search Trees.py" />
+        <option value="$PROJECT_DIR$/HackerRank/30 Days of Code/BST Level Order Traversal.py" />
+        <option value="$PROJECT_DIR$/HackerRank/Interview Preparation Kit/Two Strings.py" />
+        <option value="$PROJECT_DIR$/HackerRank/Interview Preparation Kit/Minimum Absolute Difference in an Array.py" />
+        <option value="$PROJECT_DIR$/HackerRank/Problem Solving/Data Structures/Tree Level Order Traversal.py" />
+        <option value="$PROJECT_DIR$/HackerRank/30 Days of Code/More Linked LIsts.py" />
+        <option value="$PROJECT_DIR$/HackerRank/30 Days of Code/Running Time and Complexity.py" />
+        <option value="$PROJECT_DIR$/HackerRank/30 Days of Code/Nested Logic.py" />
+        <option value="$PROJECT_DIR$/HackerRank/30 Days of Code/Tessting.py" />
+        <option value="$PROJECT_DIR$/HackerRank/30 Days of Code/Testing.py" />
+        <option value="$PROJECT_DIR$/HackerRank/30 Days of Code/RegEx, Patterns, and Intro to Databases.py" />
+        <option value="$PROJECT_DIR$/HackerRank/30 Days of Code/Bitwise AND.py" />
+        <option value="$PROJECT_DIR$/HackerRank/Interview Preparation Kit/Roads and Libraries.py" />
+        <option value="$PROJECT_DIR$/HackerRank/Interview Preparation Kit/Mark and Toys.py" />
+        <option value="$PROJECT_DIR$/HackerRank/Interview Preparation Kit/Alternating Characters.py" />
+        <option value="$PROJECT_DIR$/HackerRank/Interview Preparation Kit/Minimum Swaps 2.py" />
+        <option value="$PROJECT_DIR$/HackerRank/Interview Preparation Kit/Count Triplets.py" />
+        <option value="$PROJECT_DIR$/HackerRank/Interview Preparation Kit/Luck Balance.py" />
+        <option value="$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Iron Stick.py" />
+        <option value="$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Phone Numbers List.py" />
+        <option value="$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Lifeboat.py" />
+        <option value="$PROJECT_DIR$/Etc/LZW Compression.py" />
+        <option value="$PROJECT_DIR$/HackerRank/Problem Solving/Algorithms/Breaking the Records.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="950" />
-    <option name="y" value="-10" />
-    <option name="width" value="980" />
-    <option name="height" value="1050" />
+    <option name="x" value="830" />
+    <option name="y" value="119" />
+    <option name="width" value="977" />
+    <option name="height" value="823" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -220,13 +149,12 @@
             <path>
               <item name="Self-Study-WIL" type="b2602c69:ProjectViewProjectNode" />
               <item name="Self-Study-WIL" type="462c0819:PsiDirectoryNode" />
-              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
+              <item name="Etc" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Self-Study-WIL" type="b2602c69:ProjectViewProjectNode" />
               <item name="Self-Study-WIL" type="462c0819:PsiDirectoryNode" />
               <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
-              <item name="Interview Preparation Kit" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Self-Study-WIL" type="b2602c69:ProjectViewProjectNode" />
@@ -240,6 +168,13 @@
               <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
               <item name="Problem Solving" type="462c0819:PsiDirectoryNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Self-Study-WIL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Self-Study-WIL" type="462c0819:PsiDirectoryNode" />
+              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
+              <item name="Problem Solving" type="462c0819:PsiDirectoryNode" />
+              <item name="Data Structures" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -269,7 +204,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Jumping on the Clouds">
+  <component name="RunManager" selected="Python.LZW Compression">
+    <configuration name="Iron Stick" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Self-Study-WIL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\uille\Desktop\will-data\Self-Study-WIL\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Iron Stick.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="Jumping on the Clouds" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Self-Study-WIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -288,7 +241,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Mini-Max Sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="LZW Compression" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Self-Study-WIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -300,13 +253,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HackerRank/Problem Solving/Algorithms/Mini-Max Sum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Etc/LZW Compression.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Plus Minus" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="More Linked LIsts" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Self-Study-WIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -318,7 +271,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HackerRank/Problem Solving/Algorithms/Plus Minus.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\uille\Desktop\will-data\Self-Study-WIL\HackerRank\30 Days of Code\More Linked Lists.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -337,24 +290,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HackerRank/Interview Preparation Kit/Sock Merchant.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="Staircase" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Self-Study-WIL" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\uille\Desktop\will-data\Self-Study-WIL\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HackerRank/Problem Solving/Algorithms/Staircase.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -379,19 +314,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.Plus Minus" />
-      <item itemvalue="Python.Staircase" />
-      <item itemvalue="Python.Mini-Max Sum" />
       <item itemvalue="Python.Sock Merchant" />
       <item itemvalue="Python.Jumping on the Clouds" />
+      <item itemvalue="Python.More Linked LIsts" />
+      <item itemvalue="Python.Iron Stick" />
+      <item itemvalue="Python.LZW Compression" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.LZW Compression" />
+        <item itemvalue="Python.Iron Stick" />
+        <item itemvalue="Python.More Linked LIsts" />
         <item itemvalue="Python.Jumping on the Clouds" />
         <item itemvalue="Python.Sock Merchant" />
-        <item itemvalue="Python.Mini-Max Sum" />
-        <item itemvalue="Python.Staircase" />
-        <item itemvalue="Python.Plus Minus" />
       </list>
     </recent_temporary>
   </component>
@@ -409,17 +344,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="760" y="-8" width="784" height="840" extended-state="0" />
+    <frame x="830" y="119" width="977" height="823" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4019337" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4089422" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="right" id="R Graphics" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32952926" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32859176" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32859176" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.33285093" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.43128654" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32859176" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -437,123 +372,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HackerRank/Problem Solving/Algorithms/Kangaroo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/10 Days of Statistics/Geometric Distribution I.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/10 Days of Statistics/Poisson Distribution I.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" lean-forward="true" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/10 Days of Statistics/Normal Distribution I.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/10 Days of Statistics/Poisson Distribution II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/10 Days of Statistics/Geometric Distribution II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="41" lean-forward="true" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/Problem Solving/Algorithms/Between Two Sets.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="42" column="31" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/30 Days of Code/Recursion 3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/10 Days of Statistics/The Central Limit Theorem I.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="21" selection-end-line="10" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/10 Days of Statistics/The Central Limit Theorem II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="13" selection-end-line="10" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/10 Days of Statistics/The Central Limit Theorem III.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/Interview Preparation Kit/Arrays, Left Rotation.py" />
-    <entry file="file://$PROJECT_DIR$/HackerRank/10 Days of Statistics/Normal Distribution II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="69" lean-forward="true" selection-start-line="6" selection-end-line="7" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/Interview Preparation Kit/Hash Tables, Ransom Note.py" />
-    <entry file="file://$PROJECT_DIR$/HackerRank/Interview Preparation Kit/Sorting, Bubble Sort.py" />
-    <entry file="file://$PROJECT_DIR$/HackerRank/Interview Preparation Kit/Sorting, Comparator.py" />
-    <entry file="file://$PROJECT_DIR$/HackerRank/Interview Preparation Kit/Strings, Making Anagrams.py" />
-    <entry file="file://$PROJECT_DIR$/HackerRank/30 Days of Code/Binary Numbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/30 Days of Code/Abstract Classes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="22" column="28" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/30 Days of Code/Scope.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/Interview Preparation Kit/Hash Tables Ice Cream Parlor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="26" column="26" lean-forward="true" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HackerRank/Interview Preparation Kit/Linked Lists Detect a Cycle.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="218">
@@ -567,9 +385,6 @@
           <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/Problem Solving/Algorithms/A Very Big Sum.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/HackerRank/30 Days of Code/Linked List.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -610,9 +425,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -620,9 +432,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="365">
           <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-          <folding>
-            <element signature="e#16#25#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -637,9 +446,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
           <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="e#16#27#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -654,9 +460,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#16#27#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -664,9 +467,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="e#16#27#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -674,9 +474,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="251">
           <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
-          <folding>
-            <element signature="e#16#27#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -684,62 +481,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
-          <folding>
-            <element signature="e#16#27#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HackerRank/Problem Solving/Data Structures/Tree Postorder Traversal.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="33" lean-forward="true" selection-start-line="10" selection-end-line="16" selection-end-column="33" />
-          <folding>
-            <element signature="e#176#197#0" />
-          </folding>
+        <state relative-caret-position="285">
+          <caret line="16" column="33" selection-start-line="10" selection-end-line="16" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HackerRank/Problem Solving/Data Structures/Tree Preorder Traversal.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
-          <caret line="43" column="3" lean-forward="true" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
-          <folding>
-            <element signature="e#50#143#0" />
-            <element signature="e#176#197#0" />
-            <element signature="e#228#944#0" />
-          </folding>
+          <caret line="43" column="3" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HackerRank/Problem Solving/Data Structures/Tree Inorder Traversal.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
+        <state relative-caret-position="1197">
           <caret line="63" column="18" selection-start-line="63" selection-start-column="18" selection-end-line="63" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/Problem Solving/Data Structures/Tree Height of a Binary Tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/30 Days of Code/Queues and Stacks.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HackerRank/30 Days of Code/Inheritance.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="722">
-          <caret line="38" column="14" lean-forward="true" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
+          <caret line="38" column="14" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -750,20 +519,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/30 Days of Code/Sorting.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HackerRank/Problem Solving/Algorithms/Staircase.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#16#27#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -771,9 +530,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="41" lean-forward="true" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
-          <folding>
-            <element signature="e#16#27#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -781,31 +537,217 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/Problem Solving/Data Structures/Tree Level Order Traversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/Interview Preparation Kit/Minimum Absolute Difference in an Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/Interview Preparation Kit/Two Strings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/30 Days of Code/BST Level Order Traversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/30 Days of Code/Queues and Stacks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="31" lean-forward="true" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
           <folding>
-            <element signature="e#16#27#0" expanded="true" />
+            <element signature="e#0#10#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/30 Days of Code/Binary Search Trees.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/Problem Solving/Data Structures/Tree Height of a Binary Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-520">
+          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/30 Days of Code/Sorting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HackerRank/Interview Preparation Kit/2D Array DS.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="327">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/Interview Preparation Kit/New Year Chaos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/30 Days of Code/More Linked Lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/30 Days of Code/Nested Logic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/30 Days of Code/Testing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/30 Days of Code/RegEx, Patterns, and Intro to Databases.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/30 Days of Code/Bitwise AND.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
           <folding>
             <element signature="e#16#27#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/Interview Preparation Kit/New Year Chaos.py">
+    <entry file="file://$PROJECT_DIR$/HackerRank/30 Days of Code/Running Time and Complexity.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="551">
+          <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/Interview Preparation Kit/Roads and Libraries.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/Interview Preparation Kit/Mark and Toys.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
           <folding>
             <element signature="e#16#27#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/Interview Preparation Kit/Alternating Characters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="17" lean-forward="true" selection-end-line="28" />
+          <folding>
+            <element signature="e#16#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/Interview Preparation Kit/Minimum Swaps 2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+          <folding>
+            <element signature="e#16#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/Interview Preparation Kit/Count Triplets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="e#16#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/Interview Preparation Kit/Luck Balance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Phone Numbers List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Lifeboat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Iron Stick.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Etc/LZW Compression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/Problem Solving/Algorithms/Breaking the Records.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
