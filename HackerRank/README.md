@@ -3,7 +3,7 @@ Solutions to problems on [HackerRank](https://www.hackerrank.com). (+[My HackerR
 
 Used template from a reference of [skrnsht's HackerRank repository](https://github.com/sknsht/HackerRank)
 
-* [30 Days of Code](#30-days-of-cde)
+* [30 Days of Code](#30-days-of-code)
 * [10 Days of Statistics](#10-days-of-statistics)
 * [Interview Preparation Kit](#interview-preparation-kit)
 * [Problem Solving](#problem-solving)
@@ -104,7 +104,7 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 |    String Manipulation     |                                                              |       |            |                                                              |
 |    String Manipulation     |                                                              |       |            |                                                              |
 |     Greedy Algorithms      | [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array) |  15   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Minimum%20Absolute%20Difference%20in%20an%20Array.py) |
-|     Greedy Algorithms      | [Luck Balance](https://www.hackerrank.com/challenges/luck-balance) |  20   |    Easy    |                                                              |
+|     Greedy Algorithms      | [Luck Balance](https://www.hackerrank.com/challenges/luck-balance) |  20   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Luck%20Balance.py) |
 |     Greedy Algorithms      | [Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist) |  35   |   Medium   |                                                              |
 |     Greedy Algorithms      | [Max Min](https://www.hackerrank.com/challenges/angry-children) |  35   |   Medium   |                                                              |
 |           Search           | [Hash Tables: Ice Cream Parlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor) |  35   |   Medium   | [solution.py](Interview%20Preparation%20Kit/Hash%20Tables%20Ice%20Cream%20Parlor.py) |
@@ -149,11 +149,13 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 |   Algorithms    | Implementation | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Algorithms/Apple%20and%20Orange.py) |
 |   Algorithms    | Implementation |                         [Kangaroo]()                         |  10   |    Easy    |   [solution.py](Problem%20Solving/Algorithms/Kangaroo.py)    |
 |   Algorithms    | Implementation | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Algorithms/Between%20Two%20Sets.py) |
-|   Algorithms    | Implementation |                                                              |       |            |                                                              |
+|   Algorithms    | Implementation |                   [Breaking the Records]()                   |  10   |    Easy    | [solution.py](Problem%20Solving/Algorithms/Breaeking%20the%20Records.py) |
+|                 |                |                                                              |       |            |                                                              |
 |   Algorithms    |    Strings     | [Two Strings](https://www.hackerrank.com/challenges/two-strings) |  25   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Two%20Strings.py) |
 |   Algorithms    |    Strings     | [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem) |  20   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Alternating%20Characters.py) |
 |   Algorithms    |    Strings     |                                                              |       |            |                                                              |
 |   Algorithms    |     Greedy     | [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array) |  15   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Minimum%20Absolute%20Difference%20in%20an%20Array.py) |
+|   Algorithms    |     Greedy     | [Luck Balance](https://www.hackerrank.com/challenges/luck-balance) |  20   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Luck%20Balance.py) |
 |   Algorithms    |     Greedy     | [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys) |  35   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Mark%20and%20Toys.py) |
 |   Algorithms    |  Graph Theory  | [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development/problem) |  30   |   Medium   | [solution.py](Interview%20Preparation%20Kit/Roads%20and%Libraries.py) |
 | Data Structures |                |                                                              |       |            |                                                              |
