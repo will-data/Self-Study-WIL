@@ -111,8 +111,12 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 |           Search           |     [Pairs](https://www.hackerrank.com/challenges/pairs)     |  50   |   Medium   |                                                              |
 |    Dynamic Programming     | [Max Array Sum](https://www.hackerrank.com/challenges/max-array-sum) |  20   |   Medium   |                                                              |
 |    Dynamic Programming     |   [Candies](https://www.hackerrank.com/challenges/candies)   |  50   |   Medium   |                                                              |
-|     Stacks and Queues      | [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets) |  25   |   Medium   |                                                              |
+|     Stacks and Queues      | [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets) |  25   |   Medium   | [solution.py](Interview%20Preparation%20Kit/Balanced%20Brackets.py) |
 |     Stacks and Queues      | [Queues: A Tale of Two Stacks](https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks) |  30   |   Medium   |                                                              |
+|     Stacks and Queues      |                                                              |  50   |   Medium   |                                                              |
+|     Stacks and Queues      |                                                              |  60   |   Medium   |                                                              |
+|     Stacks and Queues      |                                                              |  30   |   Medium   |                                                              |
+|     Stacks and Queues      |                                                              |  70   |    Hard    |                                                              |
 |           Graphs           | [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development/problem) |  30   |   Medium   | [solution.py](Interview%20Preparation%20Kit/Roads%20and%20Libraries.py) |
 |           Graphs           |                                                              |       |            |                                                              |
 |           Graphs           |                                                              |       |            |                                                              |
@@ -129,7 +133,9 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 | Recursion and Backtracking | [Recursion: Fibonacci Numbers](https://www.hackerrank.com/challenges/ctci-fibonacci-numbers) |  15   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Recursion%20Fibonacci%20Numbers.py) |
 | Recursion and Backtracking | [Recursion: Davis' Staircase](https://www.hackerrank.com/challenges/ctci-recursive-staircase) |  30   |   Medium   |                                                              |
 |       Miscellaneous        | [Flipping bits](https://www.hackerrank.com/challenges/flipping-bits) |  40   |    Easy    |                                                              |
-|       Miscellaneous        | [Time Complexity: Primality](https://www.hackerrank.com/challenges/ctci-big-o) |  30   |   Medium   |                                                              |
+|       Miscellaneous        | [Time Complexity: Primality](https://www.hackerrank.com/challenges/ctci-big-o) |  30   |   Medium   | [solution.py](Interview%20Preparation%20Kit/Time%20Complexity%20Primality.py) |
+|       Miscellaneous        |                                                              |  45   |   Medium   |                                                              |
+|       Miscellaneous        |                                                              |  55   |   Medium   |                                                              |
 
 ## Problem Solving
 
@@ -164,7 +170,7 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 | Data Structures |     Trees      | [Tree: Inorder Traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Data%20Structures/Tree%20Inorder%20Traversal.py) |
 | Data Structures |     Trees      | [Tree: Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Data%20Structures/Tree%20Height%20of%20a%20Binary%20Tree.py) |
 | Data Structures |     Trees      | [Tree: Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem) |  30   |    Easy    | [solution.py](30%20Days%20of%20Code/Tree%20Level%20Order%20Traversal.py) |
-| Data Structures |                |                                                              |       |            |                                                              |
+| Data Structures |     Stacks     | [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets) |  25   |   Medium   | [solution.py](Interview%20Preparation%20Kit/Balanced%20Brackets.py) |
 | Data Structures |                |                                                              |       |            |                                                              |
 
 ## Python
