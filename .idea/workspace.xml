@@ -20,11 +20,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76ccfade-1406-4ad4-b7d9-bff93a680599" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/HackerRank/Interview Preparation Kit/Swap Nodes, Algo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY4E/Examples/Ch12/Practice_12.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY4E/Examples/Ch12/cover3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY4E/Examples/Ch12/curl1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY4E/Examples/Ch12/curl2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY4E/Examples/Ch12/socket1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY4E/Examples/Ch12/stuff.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY4E/Examples/Ch12/urljpeg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY4E/Examples/Ch12/urllink2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY4E/Examples/Ch12/urllinks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY4E/Examples/Ch12/urlregex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY4E/Solutions/Problem12_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Self-Study-WIL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Self-Study-WIL.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY4E/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/PY4E/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,57 +61,22 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/PY4E/Solutions" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/HackerRank" />
       <recent name="C:\Users\uille\Desktop\will-data\Self-Study-WIL\HackerRank\10 Days of Statistics" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/PY4E/Solutions" />
+      <recent name="$PROJECT_DIR$/PY4E/Examples/Ch12" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.LZW Compression">
-    <configuration name="Iron Stick" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Self-Study-WIL" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\uille\Desktop\will-data\Self-Study-WIL\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Iron Stick.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Jumping on the Clouds" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Self-Study-WIL" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\uille\Desktop\will-data\Self-Study-WIL\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HackerRank/Interview Preparation Kit/Jumping on the Clouds.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Problem12_1">
     <configuration name="LZW Compression" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Self-Study-WIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -122,7 +98,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="More Linked LIsts" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Problem12_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Self-Study-WIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,28 +110,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\uille\Desktop\will-data\Self-Study-WIL\HackerRank\30 Days of Code\More Linked Lists.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Sock Merchant" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Self-Study-WIL" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\uille\Desktop\will-data\Self-Study-WIL\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HackerRank/Interview Preparation Kit/Sock Merchant.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY4E/Solutions/Problem12_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,20 +140,83 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="urllink2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Self-Study-WIL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\uille\Desktop\will-data\Self-Study-WIL\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY4E/Examples/Ch12/urllink2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="urllinks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Self-Study-WIL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\uille\Desktop\will-data\Self-Study-WIL\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY4E/Examples/Ch12/urllinks.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="urlregex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Self-Study-WIL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\uille\Desktop\will-data\Self-Study-WIL\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY4E/Examples/Ch12/urlregex.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.Sock Merchant" />
-      <item itemvalue="Python.Jumping on the Clouds" />
-      <item itemvalue="Python.More Linked LIsts" />
-      <item itemvalue="Python.Iron Stick" />
       <item itemvalue="Python.LZW Compression" />
+      <item itemvalue="Python.Problem12_1" />
+      <item itemvalue="Python.urllink2" />
+      <item itemvalue="Python.urllinks" />
+      <item itemvalue="Python.urlregex" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Problem12_1" />
+        <item itemvalue="Python.urllink2" />
+        <item itemvalue="Python.urllinks" />
+        <item itemvalue="Python.urlregex" />
         <item itemvalue="Python.LZW Compression" />
-        <item itemvalue="Python.Iron Stick" />
-        <item itemvalue="Python.More Linked LIsts" />
-        <item itemvalue="Python.Jumping on the Clouds" />
-        <item itemvalue="Python.Sock Merchant" />
       </list>
     </recent_temporary>
   </component>
@@ -225,15 +243,33 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="655" y="315" key="FileChooserDialogImpl" timestamp="1588440053629">
       <screen x="0" y="23" width="1680" height="963" />
     </state>
     <state x="655" y="315" key="FileChooserDialogImpl/0.23.1680.963@0.23.1680.963" timestamp="1588440053629" />
-    <state x="369" y="193" key="SettingsEditor" timestamp="1588440086606">
-      <screen x="0" y="23" width="1680" height="963" />
+    <state width="1899" height="290" key="GridCell.Tab.0.bottom" timestamp="1588666854700">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="290" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.824@1440.23.1920.1057" timestamp="1588666854700" />
+    <state width="1899" height="290" key="GridCell.Tab.0.center" timestamp="1588666854699">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="290" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.824@1440.23.1920.1057" timestamp="1588666854699" />
+    <state width="1899" height="290" key="GridCell.Tab.0.left" timestamp="1588666854699">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="290" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.824@1440.23.1920.1057" timestamp="1588666854699" />
+    <state width="1899" height="290" key="GridCell.Tab.0.right" timestamp="1588666854699">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="290" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.824@1440.23.1920.1057" timestamp="1588666854699" />
+    <state x="1862" y="210" key="SettingsEditor" timestamp="1588665834206">
+      <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="369" y="193" key="SettingsEditor/0.23.1680.963@0.23.1680.963" timestamp="1588440086606" />
+    <state x="1862" y="210" key="SettingsEditor/1440.23.1920.1057/0.23.1440.824@1440.23.1920.1057" timestamp="1588665834206" />
   </component>
 </project>

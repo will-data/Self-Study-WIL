@@ -25,4 +25,12 @@ Author: Professor Charles Severance, University of Michigan. [(homepage link)](h
 ### Solutions
 
 * [Problem 2-1]()
-* 
+
+## Chapter 12. Network Programming
+We take a quick look at how data moves across the network using the HyperText Transport Protocol (HTTP) and how we write programs to read data scross the network.
+### WIL
+* Elementary concepts of HTTP
+* GET text, image, and webpage using HTTP
+* urllib, regular expressions, BeautifulSoup
+### Solutions
+* [Problem 12-1](Soliutions/Problem12-1.py)
