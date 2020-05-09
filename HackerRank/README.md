@@ -109,7 +109,7 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 |     Greedy Algorithms      | [Max Min](https://www.hackerrank.com/challenges/angry-children) |  35   |   Medium   |                                                              |
 |           Search           | [Hash Tables: Ice Cream Parlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor) |  35   |   Medium   | [solution.py](Interview%20Preparation%20Kit/Hash%20Tables%20Ice%20Cream%20Parlor.py) |
 |           Search           | [Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo/problem) |  40   |   Medium   | [solution.py](Interview%20Preparation%20Kit/Swap%20Nodes,%20Algo.py) |
-|           Search           |     [Pairs](https://www.hackerrank.com/challenges/pairs)     |  50   |   Medium   |                                                              |
+|           Search           |     [Pairs](https://www.hackerrank.com/challenges/pairs)     |  50   |   Medium   |    [solution.py](Interview%20Preparation%20Kit/Pairs.py)     |
 |           Search           |                                                              |       |            |                                                              |
 |           Search           |                                                              |       |            |                                                              |
 |           Search           |                                                              |       |            |                                                              |
@@ -117,7 +117,7 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 |    Dynamic Programming     | [Max Array Sum](https://www.hackerrank.com/challenges/max-array-sum) |  20   |   Medium   |                                                              |
 |    Dynamic Programming     |   [Candies](https://www.hackerrank.com/challenges/candies)   |  50   |   Medium   |                                                              |
 |     Stacks and Queues      | [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets) |  25   |   Medium   | [solution.py](Interview%20Preparation%20Kit/Balanced%20Brackets.py) |
-|     Stacks and Queues      | [Queues: A Tale of Two Stacks](https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks) |  30   |   Medium   |                                                              |
+|     Stacks and Queues      | [Queues: A Tale of Two Stacks](https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks) |  30   |   Medium   | [solution.py](Interview%20Preparation%20Kit/Queues%20A%20Tale%20of%20Two%20Stacks.py) |
 |     Stacks and Queues      |                                                              |  50   |   Medium   |                                                              |
 |     Stacks and Queues      |                                                              |  60   |   Medium   |                                                              |
 |     Stacks and Queues      |                                                              |  30   |   Medium   |                                                              |
@@ -136,7 +136,8 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 |        Linked Lists        | [Reverse a Doubly Linked List](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list) |   5   |    Easy    |                                                              |
 |        Linked Lists        | [Find Merge Point of Two Lists](https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists) |   5   |    Easy    |                                                              |
 | Recursion and Backtracking | [Recursion: Fibonacci Numbers](https://www.hackerrank.com/challenges/ctci-fibonacci-numbers) |  15   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Recursion%20Fibonacci%20Numbers.py) |
-| Recursion and Backtracking | [Recursion: Davis' Staircase](https://www.hackerrank.com/challenges/ctci-recursive-staircase) |  30   |   Medium   |                                                              |
+| Recursion and Backtracking | [Recursion: Davis' Staircase](https://www.hackerrank.com/challenges/ctci-recursive-staircase) |  30   |   Medium   | [solution.py](Interview%20Preparation%20Kit/Recursion%20Davis%20Staircase.py) |
+| Recursion and Backtracking |                                                              |       |            |                                                              |
 |       Miscellaneous        | [Flipping bits](https://www.hackerrank.com/challenges/flipping-bits) |  40   |    Easy    |                                                              |
 |       Miscellaneous        | [Time Complexity: Primality](https://www.hackerrank.com/challenges/ctci-big-o) |  30   |   Medium   | [solution.py](Interview%20Preparation%20Kit/Time%20Complexity%20Primality.py) |
 |       Miscellaneous        |                                                              |  45   |   Medium   |                                                              |
@@ -162,6 +163,7 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 |   Algorithms    | Implementation | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Algorithms/Between%20Two%20Sets.py) |
 |   Algorithms    | Implementation |                   [Breaking the Records]()                   |  10   |    Easy    | [solution.py](Problem%20Solving/Algorithms/Breaeking%20the%20Records.py) |
 |                 |                |                                                              |       |            |                                                              |
+|   Algorithms    |     Search     |     [Pairs](https://www.hackerrank.com/challenges/pairs)     |  50   |   Medium   |    [solution.py](Interview%20Preparation%20Kit/Pairs.py)     |
 |   Algorithms    |    Strings     | [Two Strings](https://www.hackerrank.com/challenges/two-strings) |  25   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Two%20Strings.py) |
 |   Algorithms    |    Strings     | [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem) |  20   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Alternating%20Characters.py) |
 |   Algorithms    |    Strings     |                                                              |       |            |                                                              |
