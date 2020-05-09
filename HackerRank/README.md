@@ -108,7 +108,12 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 |     Greedy Algorithms      | [Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist) |  35   |   Medium   |                                                              |
 |     Greedy Algorithms      | [Max Min](https://www.hackerrank.com/challenges/angry-children) |  35   |   Medium   |                                                              |
 |           Search           | [Hash Tables: Ice Cream Parlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor) |  35   |   Medium   | [solution.py](Interview%20Preparation%20Kit/Hash%20Tables%20Ice%20Cream%20Parlor.py) |
+|           Search           | [Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo/problem) |  40   |   Medium   | [solution.py](Interview%20Preparation%20Kit/Swap%20Nodes,%20Algo.py) |
 |           Search           |     [Pairs](https://www.hackerrank.com/challenges/pairs)     |  50   |   Medium   |                                                              |
+|           Search           |                                                              |       |            |                                                              |
+|           Search           |                                                              |       |            |                                                              |
+|           Search           |                                                              |       |            |                                                              |
+|           Search           |                                                              |       |            |                                                              |
 |    Dynamic Programming     | [Max Array Sum](https://www.hackerrank.com/challenges/max-array-sum) |  20   |   Medium   |                                                              |
 |    Dynamic Programming     |   [Candies](https://www.hackerrank.com/challenges/candies)   |  50   |   Medium   |                                                              |
 |     Stacks and Queues      | [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets) |  25   |   Medium   | [solution.py](Interview%20Preparation%20Kit/Balanced%20Brackets.py) |
@@ -169,7 +174,8 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 | Data Structures |     Trees      | [Tree: Postorder Traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Data%20Structures/Tree%20Postorder%20Traversal.py) |
 | Data Structures |     Trees      | [Tree: Inorder Traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Data%20Structures/Tree%20Inorder%20Traversal.py) |
 | Data Structures |     Trees      | [Tree: Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem) |  10   |    Easy    | [solution.py](Problem%20Solving/Data%20Structures/Tree%20Height%20of%20a%20Binary%20Tree.py) |
-| Data Structures |     Trees      | [Tree: Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem) |  30   |    Easy    | [solution.py](30%20Days%20of%20Code/Tree%20Level%20Order%20Traversal.py) |
+| Data Structures |     Trees      | [Tree: Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem) |  30   |    Easy    | [solution.py](Problem%20Solving/Data%20Structures/Tree%20Level%20Order%20Traversal.py) |
+| Data Structures |     Trees      | [Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo/problem) |  40   |   Medium   | [solution.py](Interview%20Preparation%20Kit/Swap%20Nodes,%20Algo.py) |
 | Data Structures |     Stacks     | [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets) |  25   |   Medium   | [solution.py](Interview%20Preparation%20Kit/Balanced%20Brackets.py) |
 | Data Structures |                |                                                              |       |            |                                                              |
 

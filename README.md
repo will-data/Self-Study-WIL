@@ -23,9 +23,9 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 * [30 days of Code](HackerRank)
 * [10 Days of Statistics](HackerRank)
 * [Interview Preparation Kit](HackerRank)
+* [Problem Solving](HackerRank)
 * [Python](HackerRank)
 * [SQL](HackerRank)
-* [Problem Solving](HackerRank)
 
 # programmers
 
