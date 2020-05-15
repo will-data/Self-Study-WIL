@@ -133,7 +133,7 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 |           Trees            | [Tree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding) |  20   |   Medium   |                                                              |
 |           Trees            | [Balanced Forest](https://www.hackerrank.com/challenges/balanced-forest) |  60   |    Hard    |                                                              |
 |        Linked Lists        | [Insert a node at a specific position in a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem) |   5   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Insertanodeataspecificpositioninalinkedlist.py) |
-|        Linked Lists        |         Insertanodeataspecificpositioninalinkedlist          |   5   |    Easy    |                                                              |
+|        Linked Lists        | [Inserting a Node Into a Sorted Doubly Linked List](https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem) |   5   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Insertanodeataspecificpositioninalinkedlist.py) |
 |        Linked Lists        | [Reverse a Doubly Linked List](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list) |   5   |    Easy    |                                                              |
 |        Linked Lists        | [Find Merge Point of Two Lists](https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists) |   5   |    Easy    |                                                              |
 |        Linked Lists        | [Linked Lists: Detect a Cycle](https://www.hackerrank.com/challenges/ctci-linked-list-cycle) |  25   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Linked%20Lists%20Detect%20a%20Cycle.py) |
@@ -181,6 +181,9 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 | Data Structures |     Trees      | [Tree: Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem) |  30   |    Easy    | [solution.py](Problem%20Solving/Data%20Structures/Tree%20Level%20Order%20Traversal.py) |
 | Data Structures |     Trees      | [Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo/problem) |  40   |   Medium   | [solution.py](Interview%20Preparation%20Kit/Swap%20Nodes,%20Algo.py) |
 | Data Structures |     Stacks     | [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets) |  25   |   Medium   | [solution.py](Interview%20Preparation%20Kit/Balanced%20Brackets.py) |
+| Data Structures |                |                                                              |       |            |                                                              |
+| Data Structures |  Linked Lists  | [Insert a node at a specific position in a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem) |   5   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Insertanodeataspecificpositioninalinkedlist.py) |
+| Data Structures |  Linked Lists  | [Inserting a Node Into a Sorted Doubly Linked List](https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem) |   5   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Insertanodeataspecificpositioninalinkedlist.py) |
 | Data Structures |                |                                                              |       |            |                                                              |
 
 ## Python
