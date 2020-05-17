@@ -58,14 +58,14 @@ Solutions to problems on [programmers](https://programmers.co.kr/learn/challenge
 
 ## KAKAO Previous Tests
 
-|       Test Name        |                          Challenge                           | Level |                        Solution                        |
-| :--------------------: | :----------------------------------------------------------: | :---: | :----------------------------------------------------: |
-| 2019 Summer Internship |                                                              |       |                                                        |
-| 2019 Summer Internship |                                                              |       |                                                        |
-| 2019 Summer Internship | [Bad Users(불량 사용자)](https://programmers.co.kr/learn/courses/30/lessons/64064) |   3   | [solution.py](KAKAO%20Previous%20Tests/Bad%20Users.py) |
-| 2019 Summer Internship |                                                              |       |                                                        |
-| 2019 Summer Internship |                                                              |       |                                                        |
-|                        |                                                              |       |                                                        |
+|       Test Name        |                          Challenge                           | Level |                           Solution                           |
+| :--------------------: | :----------------------------------------------------------: | :---: | :----------------------------------------------------------: |
+| 2019 Winter Internship | [Crane Clawing Game(크레인 인형뽑기 게임)](https://programmers.co.kr/learn/courses/30/lessons/64061) |   1   | [solution.py](KAKAO%20Previous%20Tests/Crane%20Clawing%20Game.py) |
+| 2019 Winter Internship | [Tuple(튜플)](https://programmers.co.kr/learn/courses/30/lessons/64065) |   2   |       [solution.py](KAKAO%20Previous%20Tests/Tuple.py)       |
+| 2019 Winter Internship | [Bad User(불량 사용자)](https://programmers.co.kr/learn/courses/30/lessons/64064) |   3   |    [solution.py](KAKAO%20Previous%20Tests/Bad%20User.py)     |
+| 2019 Winter Internship | [Hotel Room Assignment(호텔 방 배정)](https://programmers.co.kr/learn/courses/30/lessons/64063) |   4   | [solution.py](KAKAO%20Previous%20Tests/Hotel%20Room%20Assignment.py) |
+| 2019 Winter Internship | [Crossing a Stepping Stone(징검다리 건너기)](https://programmers.co.kr/learn/courses/30/lessons/64062) |   3   | [solution.py](KAKAO%20Previous%20Tests/Crossing%20a%20Stepping%20Stone.py) |
+|                        |                                                              |       |                                                              |
 
 ## Other Challenges
 
