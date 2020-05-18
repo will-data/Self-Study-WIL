@@ -20,16 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c76226b5-d4dd-4736-a96d-0bd12f476424" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/HackerRank/Interview Preparation Kit/Sherlock and Anagrams.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Connecting Islands.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Travel Route.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/KAKAO Previous Tests/Bad User.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/Other Challenges/2xn Tiling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/Other Challenges/Number Game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Self-Study-WIL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Self-Study-WIL.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/programmers/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

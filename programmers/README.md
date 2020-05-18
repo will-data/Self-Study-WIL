@@ -58,14 +58,14 @@ Solutions to problems on [programmers](https://programmers.co.kr/learn/challenge
 
 ## KAKAO Previous Tests
 
-|       Test Name        |                          Challenge                           | Level |                        Solution                        |
-| :--------------------: | :----------------------------------------------------------: | :---: | :----------------------------------------------------: |
-| 2019 Summer Internship |                                                              |       |                                                        |
-| 2019 Summer Internship |                                                              |       |                                                        |
-| 2019 Summer Internship | [Bad Users(불량 사용자)](https://programmers.co.kr/learn/courses/30/lessons/64064) |   3   | [solution.py](KAKAO%20Previous%20Tests/Bad%20Users.py) |
-| 2019 Summer Internship |                                                              |       |                                                        |
-| 2019 Summer Internship |                                                              |       |                                                        |
-|                        |                                                              |       |                                                        |
+|       Test Name        |                          Challenge                           | Level |                       Solution                        |
+| :--------------------: | :----------------------------------------------------------: | :---: | :---------------------------------------------------: |
+| 2019 Summer Internship |                                                              |       |                                                       |
+| 2019 Summer Internship |                                                              |       |                                                       |
+| 2019 Summer Internship | [Bad User(불량 사용자)](https://programmers.co.kr/learn/courses/30/lessons/64064) |   3   | [solution.py](KAKAO%20Previous%20Tests/Bad%20User.py) |
+| 2019 Summer Internship |                                                              |       |                                                       |
+| 2019 Summer Internship |                                                              |       |                                                       |
+|                        |                                                              |       |                                                       |
 
 ## Other Challenges
 
