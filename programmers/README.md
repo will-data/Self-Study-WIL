@@ -9,17 +9,17 @@ Solutions to problems on [programmers](https://programmers.co.kr/learn/challenge
 
 |      Subdomain      |                          Challenge                           | Level |                           Solution                           |
 | :-----------------: | :----------------------------------------------------------: | :---: | :----------------------------------------------------------: |
-|        Hash         |                                                              |       |                                                              |
+|        Hash         | [Uncompleted Player(완주하지 못한 선수)](https://programmers.co.kr/learn/courses/30/lessons/42576) |   1   | [solution.py](Coding%20Test%20High-Score%20Kit/Uncompleted%20Player.py) |
 |        Hash         | [Phone Numbers List(전화번호 목록)](https://programmers.co.kr/learn/courses/30/lessons/42577) |   2   | [solution.py](Coding%20Test%20High-Score%20Kit/Phone%20Numbers%20List.py) |
+|        Hash         | [Camouflage(위장)](https://programmers.co.kr/learn/courses/30/lessons/42578) |   2   | [solution.py](Coding%20Test%20High-Score%20Kit/Camouflage.py) |
 |        Hash         |                                                              |       |                                                              |
-|        Hash         |                                                              |       |                                                              |
-|      Stack/Que      |                                                              |       |                                                              |
-|      Stack/Que      |                                                              |       |                                                              |
+|      Stack/Que      | [Tower(탑)](https://programmers.co.kr/learn/courses/30/lessons/42588) |   2   |   [solution.py](Coding%20Test%20High-Score%20Kit/Tower.py)   |
+|      Stack/Que      | [Truck Passing a Bridge(다리를 지나는 트럭)](https://programmers.co.kr/learn/courses/30/lessons/42583) |   2   | [solution.py](Coding%20Test%20High-Score%20Kit/Truck%20Passing%20a%20Bridge.py) |
 |      Stack/Que      |                                                              |       |                                                              |
 |      Stack/Que      |                                                              |       |                                                              |
 |      Stack/Que      | [Iron Stick(쇠막대기)](https://programmers.co.kr/learn/courses/30/lessons/42585) |   2   | [solution.py](Coding%20Test%20High-Score%20Kit/Iron%20Stick.py) |
 |      Stack/Que      |                                                              |       |                                                              |
-|        Heap         |                                                              |       |                                                              |
+|        Heap         | [더 맵게(Much Spicer)](https://programmers.co.kr/learn/courses/30/lessons/42626) |   2   | [solution.py](Coding%20Test%20High-Score%20Kit/Much%20Spicer.py) |
 |        Heap         |                                                              |       |                                                              |
 |        Heap         |                                                              |       |                                                              |
 |        Heap         |                                                              |       |                                                              |
@@ -50,7 +50,7 @@ Solutions to problems on [programmers](https://programmers.co.kr/learn/challenge
 |       DFS/BFS       | [Travel Route(여행경로)](https://programmers.co.kr/learn/courses/30/lessons/43164) |   3   | [solution.py](Coding%20Test%20High-Score%20Kit/Travel%20Route.py) |
 |    Binary Search    |                                                              |       |                                                              |
 |    Binary Search    |                                                              |       |                                                              |
-|    Binary Search    |                                                              |       |                                                              |
+|    Binary Search    | [Stepping Stone(징검다리)](https://programmers.co.kr/learn/courses/30/lessons/43236) |   4   | [solution.py](Coding%20Test%20High-Score%20Kit/Stepping%20Stone.py) |
 |    Graph Theory     |                                                              |       |                                                              |
 |    Graph Theory     |                                                              |       |                                                              |
 |    Graph Theory     |                                                              |       |                                                              |
@@ -58,14 +58,15 @@ Solutions to problems on [programmers](https://programmers.co.kr/learn/challenge
 
 ## KAKAO Previous Tests
 
-|       Test Name        |                          Challenge                           | Level |                           Solution                           |
-| :--------------------: | :----------------------------------------------------------: | :---: | :----------------------------------------------------------: |
-| 2019 Winter Internship | [Crane Clawing Game(크레인 인형뽑기 게임)](https://programmers.co.kr/learn/courses/30/lessons/64061) |   1   | [solution.py](KAKAO%20Previous%20Tests/Crane%20Clawing%20Game.py) |
-| 2019 Winter Internship | [Tuple(튜플)](https://programmers.co.kr/learn/courses/30/lessons/64065) |   2   |       [solution.py](KAKAO%20Previous%20Tests/Tuple.py)       |
-| 2019 Winter Internship | [Bad User(불량 사용자)](https://programmers.co.kr/learn/courses/30/lessons/64064) |   3   |    [solution.py](KAKAO%20Previous%20Tests/Bad%20User.py)     |
-| 2019 Winter Internship | [Hotel Room Assignment(호텔 방 배정)](https://programmers.co.kr/learn/courses/30/lessons/64063) |   4   | [solution.py](KAKAO%20Previous%20Tests/Hotel%20Room%20Assignment.py) |
-| 2019 Winter Internship | [Crossing a Stepping Stone(징검다리 건너기)](https://programmers.co.kr/learn/courses/30/lessons/64062) |   3   | [solution.py](KAKAO%20Previous%20Tests/Crossing%20a%20Stepping%20Stone.py) |
-|                        |                                                              |       |                                                              |
+|          Test Name           |                          Challenge                           | Level |                           Solution                           |
+| :--------------------------: | :----------------------------------------------------------: | :---: | :----------------------------------------------------------: |
+|    2019 Winter Internship    | [Crane Clawing Game(크레인 인형뽑기 게임)](https://programmers.co.kr/learn/courses/30/lessons/64061) |   1   | [solution.py](KAKAO%20Previous%20Tests/Crane%20Clawing%20Game.py) |
+|    2019 Winter Internship    | [Tuple(튜플)](https://programmers.co.kr/learn/courses/30/lessons/64065) |   2   |       [solution.py](KAKAO%20Previous%20Tests/Tuple.py)       |
+|    2019 Winter Internship    | [Bad User(불량 사용자)](https://programmers.co.kr/learn/courses/30/lessons/64064) |   3   |    [solution.py](KAKAO%20Previous%20Tests/Bad%20User.py)     |
+|    2019 Winter Internship    | [Hotel Room Assignment(호텔 방 배정)](https://programmers.co.kr/learn/courses/30/lessons/64063) |   4   | [solution.py](KAKAO%20Previous%20Tests/Hotel%20Room%20Assignment.py) |
+|    2019 Winter Internship    | [Crossing a Stepping Stone(징검다리 건너기)](https://programmers.co.kr/learn/courses/30/lessons/64062) |   3   | [solution.py](KAKAO%20Previous%20Tests/Crossing%20a%20Stepping%20Stone.py) |
+| 2020 KAKAO BLIND RECRUITMENT | [Constructing Columns and Beams(기둥과 보 설치)](https://programmers.co.kr/learn/challenges?selected_part_id=17214) |   3   | [solution.py](KAKAO%20Previous%20Tests/Constructing%20Columns%20and%20Beams.py) |
+|                              |                                                              |       |                                                              |
 ## Other Challenges
 
 |          Test Name          |                          Challenge                           | Level |                      Solution                      |

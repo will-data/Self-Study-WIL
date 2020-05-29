@@ -20,15 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c76226b5-d4dd-4736-a96d-0bd12f476424" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/programmers/KAKAO Previous Tests/Crane Clawing Game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/KAKAO Previous Tests/Crossing a Stepping Stone.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/KAKAO Previous Tests/Hotel Room Assignment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/KAKAO Previous Tests/Tuple.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Self-Study-WIL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Self-Study-WIL.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Camouflage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Much Spicer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Stepping Stone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Tower.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Truck Passing a Bridge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Uncompleted Player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/KAKAO Previous Tests/Constructing Columns and Beams.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/programmers/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/README.md" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,11 +38,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="InsertingaNodeIntoaSortedDoublyLinkedList.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HackerRank/Interview Preparation Kit/InsertingaNodeIntoaSortedDoublyLinkedList.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="514">
+            <state relative-caret-position="1368">
               <caret line="76" column="38" selection-start-line="76" selection-start-column="38" selection-end-line="76" selection-end-column="38" />
               <folding>
                 <element signature="e#16#27#0" expanded="true" />
@@ -49,38 +51,56 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Crane Clawing Game.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programmers/KAKAO Previous Tests/Crane Clawing Game.py">
+      <file leaf-file-name="Uncompleted Player.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Uncompleted Player.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+            <state relative-caret-position="57">
+              <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Tuple.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programmers/KAKAO Previous Tests/Tuple.py">
+      <file leaf-file-name="Camouflage.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Camouflage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Tower.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Tower.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Truck Passing a Bridge.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Truck Passing a Bridge.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Much Spicer.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Much Spicer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Stepping Stone.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Stepping Stone.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="304">
-              <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Crossing a Stepping Stone.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programmers/KAKAO Previous Tests/Crossing a Stepping Stone.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Hotel Room Assignment.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/programmers/KAKAO Previous Tests/Hotel Room Assignment.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+              <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -104,8 +124,20 @@
         <option value="$PROJECT_DIR$/programmers/KAKAO Previous Tests/Tuple.py" />
         <option value="$PROJECT_DIR$/programmers/KAKAO Previous Tests/Crossing a Stepping Stone.py" />
         <option value="$PROJECT_DIR$/programmers/KAKAO Previous Tests/Hotel Room Assignment.py" />
+        <option value="$PROJECT_DIR$/programmers/KAKAO Previous Tests/Constructing Columns and Beams.py" />
+        <option value="$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Stepping Stone.py" />
+        <option value="$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Uncompleted Player.py" />
+        <option value="$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Camouflage.py" />
+        <option value="$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Tower.py" />
+        <option value="$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Truck Passing a Bridge.py" />
+        <option value="$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Much Spicer.py" />
       </list>
     </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectId" id="1bwzJ4oPOwgVqhpN4PdD7eFhAYN" />
   <component name="ProjectLevelVcsManager">
@@ -116,7 +148,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -138,12 +169,19 @@
               <item name="Self-Study-WIL" type="b2602c69:ProjectViewProjectNode" />
               <item name="Self-Study-WIL" type="462c0819:PsiDirectoryNode" />
               <item name="programmers" type="462c0819:PsiDirectoryNode" />
+              <item name="Coding Test High-Score Kit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Self-Study-WIL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Self-Study-WIL" type="462c0819:PsiDirectoryNode" />
+              <item name="programmers" type="462c0819:PsiDirectoryNode" />
               <item name="KAKAO Previous Tests" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -204,7 +242,7 @@
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20787746" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2177243" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="right" id="R Graphics" order="3" />
@@ -243,7 +281,48 @@
       </map>
     </option>
   </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/HackerRank/Interview Preparation Kit/InsertingaNodeIntoaSortedDoublyLinkedList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1368">
+          <caret line="76" column="38" selection-start-line="76" selection-start-column="38" selection-end-line="76" selection-end-column="38" />
+          <folding>
+            <element signature="e#16#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/KAKAO Previous Tests/Crane Clawing Game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/KAKAO Previous Tests/Tuple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/KAKAO Previous Tests/Crossing a Stepping Stone.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/KAKAO Previous Tests/Hotel Room Assignment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/HackerRank/Interview Preparation Kit/Pairs.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -302,7 +381,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HackerRank/Interview Preparation Kit/InsertingaNodeIntoaSortedDoublyLinkedList.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="514">
+        <state relative-caret-position="1368">
           <caret line="76" column="38" selection-start-line="76" selection-start-column="38" selection-end-line="76" selection-end-column="38" />
           <folding>
             <element signature="e#16#27#0" expanded="true" />
@@ -320,21 +399,70 @@
     <entry file="file://$PROJECT_DIR$/programmers/KAKAO Previous Tests/Tuple.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
-          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/KAKAO Previous Tests/Crossing a Stepping Stone.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/programmers/KAKAO Previous Tests/Hotel Room Assignment.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
-          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Stepping Stone.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/KAKAO Previous Tests/Constructing Columns and Beams.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/KAKAO Previous Tests/Crossing a Stepping Stone.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Uncompleted Player.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Camouflage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Tower.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Truck Passing a Bridge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Much Spicer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
         </state>
       </provider>
     </entry>
