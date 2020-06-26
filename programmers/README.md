@@ -19,8 +19,8 @@ Solutions to problems on [programmers](https://programmers.co.kr/learn/challenge
 |      Stack/Que      |                                                              |       |                                                              |
 |      Stack/Que      | [Iron Stick(쇠막대기)](https://programmers.co.kr/learn/courses/30/lessons/42585) |   2   | [solution.py](Coding%20Test%20High-Score%20Kit/Iron%20Stick.py) |
 |      Stack/Que      |                                                              |       |                                                              |
-|        Heap         | [더 맵게(Much Spicer)](https://programmers.co.kr/learn/courses/30/lessons/42626) |   2   | [solution.py](Coding%20Test%20High-Score%20Kit/Much%20Spicer.py) |
-|        Heap         |                                                              |       |                                                              |
+|        Heap         | [Much Spicer(더 맵게))](https://programmers.co.kr/learn/courses/30/lessons/42626) |   2   | [solution.py](Coding%20Test%20High-Score%20Kit/Much%20Spicer.py) |
+|        Heap         | [Noodle Factory(라면 공장)](https://programmers.co.kr/learn/courses/30/lessons/42629) |   2   | [solution.py](Coding%20Test%20High-Score%20Kit/Noodle%20Factory.py) |
 |        Heap         |                                                              |       |                                                              |
 |        Heap         |                                                              |       |                                                              |
 |       Sorting       |                                                              |       |                                                              |
