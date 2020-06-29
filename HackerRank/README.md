@@ -89,7 +89,7 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 |           Arrays           | [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation) |  20   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Arrays%20Left%20Rotation.py) |
 |           Arrays           | [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos) |  40   |   Medium   | [solution.py](Interview%20Preparation%20Kit/New%20Year%20Chaos.py) |
 |           Arrays           | [Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2) |  40   |   Medium   | [solution.py](Interview%20Preparation%20Kit/Minimum%20Swaps%202.py) |
-|           Arrays           | [Array Manipulation](https://www.hackerrank.com/challenges/crush) |  60   |    Hard    |                                                              |
+|           Arrays           | [Array Manipulation](https://www.hackerrank.com/challenges/crush) |  60   |    Hard    | [solution.py](Interview%20Preparation%20Kit/Array%20Manipulation.py) |
 | Dictionaries and Hashmaps  | [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note) |  25   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Hash%20Tables%20Ransom%20Note.py) |
 | Dictionaries and Hashmaps  | [Two Strings](https://www.hackerrank.com/challenges/two-strings) |  25   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Two%20Strings.py) |
 | Dictionaries and Hashmaps  | [Count Triplets](https://www.hackerrank.com/challenges/count-triplets-1) |  35   |   Medium   | [solution.py](Interview%20Preparation%20Kit/Count%20Triplets.py) |

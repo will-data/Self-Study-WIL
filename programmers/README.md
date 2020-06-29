@@ -21,7 +21,7 @@ Solutions to problems on [programmers](https://programmers.co.kr/learn/challenge
 |      Stack/Que      |                                                              |       |                                                              |
 |        Heap         | [Much Spicer(더 맵게))](https://programmers.co.kr/learn/courses/30/lessons/42626) |   2   | [solution.py](Coding%20Test%20High-Score%20Kit/Much%20Spicer.py) |
 |        Heap         | [Noodle Factory(라면 공장)](https://programmers.co.kr/learn/courses/30/lessons/42629) |   2   | [solution.py](Coding%20Test%20High-Score%20Kit/Noodle%20Factory.py) |
-|        Heap         |                                                              |       |                                                              |
+|        Heap         | [Disk Controller(디스크 컨트롤러)](https://programmers.co.kr/learn/courses/30/lessons/42627) |   3   | [solution.py](Coding%20Test%20High-Score%20Kit/Disk%20Controller.py) |
 |        Heap         |                                                              |       |                                                              |
 |       Sorting       | [Kth Number(K번째수)](https://programmers.co.kr/learn/courses/30/lessons/42748) |   1   | [solution.py](Coding%20Test%20High-Score%20Kit/Kth%20Number.py) |
 |       Sorting       | [Biggest Number(가장 큰 수)](https://programmers.co.kr/learn/courses/30/lessons/42746) |   2   | [solution.py](Coding%20Test%20High-Score%20Kit/Biggest%20Number.py) |
@@ -39,19 +39,19 @@ Solutions to problems on [programmers](https://programmers.co.kr/learn/challenge
 |       Greedy        |                                                              |       |                                                              |
 | Dynamic Programming | [Express With N(N으로 표현)](https://programmers.co.kr/learn/courses/30/lessons/42895) |   3   | [solution.py](Coding%20Test%20High-Score%20Kit/Express%20With%20N.py) |
 | Dynamic Programming | [Tile Decoration(타일 장식물)](https://programmers.co.kr/learn/courses/30/lessons/43104) |   3   | [solution.py](Coding%20Test%20High-Score%20Kit/Tile%20Decoration.py) |
+| Dynamic Programming | [Integer Triangle(정수 삼각형)](https://programmers.co.kr/learn/courses/30/lessons/43105) |   3   | [solution.py](Coding%20Test%20High-Score%20Kit/Integer%20Triangle.py) |
 | Dynamic Programming |                                                              |       |                                                              |
 | Dynamic Programming |                                                              |       |                                                              |
 | Dynamic Programming |                                                              |       |                                                              |
 | Dynamic Programming |                                                              |       |                                                              |
-| Dynamic Programming |                                                              |       |                                                              |
-|       DFS/BFS       |                                                              |       |                                                              |
+|       DFS/BFS       | [Target Number(타겟 넘버)](https://programmers.co.kr/learn/courses/30/lessons/43165) |   2   | [solution.py](Coding%20Test%20High-Score%20Kit/Target%20Number.py) |
 |       DFS/BFS       |                                                              |       |                                                              |
 |       DFS/BFS       |                                                              |       |                                                              |
 |       DFS/BFS       | [Travel Route(여행경로)](https://programmers.co.kr/learn/courses/30/lessons/43164) |   3   | [solution.py](Coding%20Test%20High-Score%20Kit/Travel%20Route.py) |
 |    Binary Search    |                                                              |       |                                                              |
 |    Binary Search    |                                                              |       |                                                              |
 |    Binary Search    | [Stepping Stone(징검다리)](https://programmers.co.kr/learn/courses/30/lessons/43236) |   4   | [solution.py](Coding%20Test%20High-Score%20Kit/Stepping%20Stone.py) |
-|    Graph Theory     |                                                              |       |                                                              |
+|    Graph Theory     | [Furthest Node(가장 먼 노드)](https://programmers.co.kr/learn/courses/30/lessons/49189) |   3   | [solution.py](Coding%20Test%20High-Score%20Kit/Furthest%20Node.py) |
 |    Graph Theory     |                                                              |       |                                                              |
 |    Graph Theory     |                                                              |       |                                                              |
 |    Graph Theory     |                                                              |       |                                                              |
