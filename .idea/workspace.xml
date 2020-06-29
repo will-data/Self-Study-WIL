@@ -20,8 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c76226b5-d4dd-4736-a96d-0bd12f476424" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/HackerRank/Interview Preparation Kit/Largest Rectangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Noodle Factory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Biggest Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Express With N.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Kth Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Mock Test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Tile Decoration.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/programmers/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/README.md" afterDir="false" />
     </list>
@@ -34,32 +37,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="InsertingaNodeIntoaSortedDoublyLinkedList.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HackerRank/Interview Preparation Kit/InsertingaNodeIntoaSortedDoublyLinkedList.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1368">
-              <caret line="76" column="38" selection-start-line="76" selection-start-column="38" selection-end-line="76" selection-end-column="38" />
-              <folding>
-                <element signature="e#16#27#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Uncompleted Player.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Uncompleted Player.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="57">
               <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Camouflage.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Camouflage.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -73,47 +55,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Truck Passing a Bridge.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Truck Passing a Bridge.py">
+      <file leaf-file-name="Kth Number.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Kth Number.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="114">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Much Spicer.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Much Spicer.py">
+      <file leaf-file-name="Express With N.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Express With N.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+            <state relative-caret-position="133">
+              <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Noodle Factory.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Noodle Factory.py">
+      <file leaf-file-name="Tile Decoration.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Tile Decoration.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+            <state relative-caret-position="114">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Largest Rectangle.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HackerRank/Interview Preparation Kit/Largest Rectangle.py">
+      <file leaf-file-name="Biggest Number.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Biggest Number.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Stepping Stone.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Stepping Stone.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+            <state relative-caret-position="190">
+              <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -146,6 +119,11 @@
         <option value="$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Much Spicer.py" />
         <option value="$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Noodle Factory.py" />
         <option value="$PROJECT_DIR$/HackerRank/Interview Preparation Kit/Largest Rectangle.py" />
+        <option value="$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Mock Test.py" />
+        <option value="$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Kth Number.py" />
+        <option value="$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Express With N.py" />
+        <option value="$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Tile Decoration.py" />
+        <option value="$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Biggest Number.py" />
       </list>
     </option>
   </component>
@@ -178,8 +156,19 @@
             <path>
               <item name="Self-Study-WIL" type="b2602c69:ProjectViewProjectNode" />
               <item name="Self-Study-WIL" type="462c0819:PsiDirectoryNode" />
-              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
-              <item name="Interview Preparation Kit" type="462c0819:PsiDirectoryNode" />
+              <item name="programmers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Self-Study-WIL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Self-Study-WIL" type="462c0819:PsiDirectoryNode" />
+              <item name="programmers" type="462c0819:PsiDirectoryNode" />
+              <item name="Coding Test High-Score Kit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Self-Study-WIL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Self-Study-WIL" type="462c0819:PsiDirectoryNode" />
+              <item name="programmers" type="462c0819:PsiDirectoryNode" />
+              <item name="KAKAO Previous Tests" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -538,8 +527,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HackerRank/Interview Preparation Kit/Largest Rectangle.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
+        <state relative-caret-position="608">
           <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Mock Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Kth Number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Express With N.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Tile Decoration.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Biggest Number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
         </state>
       </provider>
     </entry>

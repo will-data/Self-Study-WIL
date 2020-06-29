@@ -23,10 +23,10 @@ Solutions to problems on [programmers](https://programmers.co.kr/learn/challenge
 |        Heap         | [Noodle Factory(라면 공장)](https://programmers.co.kr/learn/courses/30/lessons/42629) |   2   | [solution.py](Coding%20Test%20High-Score%20Kit/Noodle%20Factory.py) |
 |        Heap         |                                                              |       |                                                              |
 |        Heap         |                                                              |       |                                                              |
+|       Sorting       | [Kth Number(K번째수)](https://programmers.co.kr/learn/courses/30/lessons/42748) |   1   | [solution.py](Coding%20Test%20High-Score%20Kit/Kth%20Number.py) |
+|       Sorting       | [Biggest Number(가장 큰 수)](https://programmers.co.kr/learn/courses/30/lessons/42746) |   2   | [solution.py](Coding%20Test%20High-Score%20Kit/Biggest%20Number.py) |
 |       Sorting       |                                                              |       |                                                              |
-|       Sorting       |                                                              |       |                                                              |
-|       Sorting       |                                                              |       |                                                              |
-|     Brute-Force     |                                                              |       |                                                              |
+|     Brute-Force     | [Mock Test(모의고사)](https://programmers.co.kr/learn/courses/30/lessons/42840) |   1   | [solution.py](Coding%20Test%20High-Score%20Kit/Mock%20Test.py) |
 |     Brute-Force     |                                                              |       |                                                              |
 |     Brute-Force     |                                                              |       |                                                              |
 |     Brute-Force     |                                                              |       |                                                              |
@@ -37,8 +37,8 @@ Solutions to problems on [programmers](https://programmers.co.kr/learn/challenge
 |       Greedy        | [Connecting Islands(섬 연결하기)](https://programmers.co.kr/learn/courses/30/lessons/42861) |   3   | [solution.py](Coding%20Test%20High-Score%20Kit/Connecting%20Islands.py) |
 |       Greedy        |                                                              |       |                                                              |
 |       Greedy        |                                                              |       |                                                              |
-| Dynamic Programming |                                                              |       |                                                              |
-| Dynamic Programming |                                                              |       |                                                              |
+| Dynamic Programming | [Express With N(N으로 표현)](https://programmers.co.kr/learn/courses/30/lessons/42895) |   3   | [solution.py](Coding%20Test%20High-Score%20Kit/Express%20With%20N.py) |
+| Dynamic Programming | [Tile Decoration(타일 장식물)](https://programmers.co.kr/learn/courses/30/lessons/43104) |   3   | [solution.py](Coding%20Test%20High-Score%20Kit/Tile%20Decoration.py) |
 | Dynamic Programming |                                                              |       |                                                              |
 | Dynamic Programming |                                                              |       |                                                              |
 | Dynamic Programming |                                                              |       |                                                              |
