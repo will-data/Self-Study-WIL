@@ -123,12 +123,12 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 |     Stacks and Queues      |                                                              |  30   |   Medium   |                                                              |
 |     Stacks and Queues      |                                                              |  70   |    Hard    |                                                              |
 |           Graphs           | [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development/problem) |  30   |   Medium   | [solution.py](Interview%20Preparation%20Kit/Roads%20and%20Libraries.py) |
-|           Graphs           |                                                              |       |            |                                                              |
+|           Graphs           | [Find the nearest clone](https://www.hackerrank.com/challenges/find-the-nearest-clone/problem) |  45   |   Medium   | [solution.py](Interview%20Preparation%20Kit/Find%20the%20nearest%20clone.py) |
 |           Graphs           |                                                              |       |            |                                                              |
 |           Graphs           | [BFS: Shortest Reach in a Graph](https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach) |  45   |    Hard    |                                                              |
 |           Graphs           | [DFS: Connected Cell in a Grid](https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid) |  45   |    Hard    |                                                              |
 |           Trees            | [Tree: Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree) |  10   |    Easy    | [solution.py](Problem%20Solving/Data%20Structures/Tree%20Height%20of%20a%20Binary%20Tree.py) |
-|           Trees            | [Binary Search Tree: Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor) |  30   |    Easy    |                                                              |
+|           Trees            | [Binary Search Tree: Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor) |  30   |    Easy    | [solution.py](Problem%20Solving/Data%20Structures/Binary%20Search%20Tree%20LCA.py) |
 |           Trees            | [Trees: Is This a Binary Search Tree?](https://www.hackerrank.com/challenges/ctci-is-binary-search-tree) |  30   |   Medium   |                                                              |
 |           Trees            | [Tree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding) |  20   |   Medium   |                                                              |
 |           Trees            | [Balanced Forest](https://www.hackerrank.com/challenges/balanced-forest) |  60   |    Hard    |                                                              |
@@ -140,7 +140,7 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 | Recursion and Backtracking | [Recursion: Fibonacci Numbers](https://www.hackerrank.com/challenges/ctci-fibonacci-numbers) |  15   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Recursion%20Fibonacci%20Numbers.py) |
 | Recursion and Backtracking | [Recursion: Davis' Staircase](https://www.hackerrank.com/challenges/ctci-recursive-staircase) |  30   |   Medium   | [solution.py](Interview%20Preparation%20Kit/Recursion%20Davis%20Staircase.py) |
 | Recursion and Backtracking |                                                              |       |            |                                                              |
-|       Miscellaneous        | [Flipping bits](https://www.hackerrank.com/challenges/flipping-bits) |  40   |    Easy    |                                                              |
+|       Miscellaneous        | [Flipping bits](https://www.hackerrank.com/challenges/flipping-bits) |  40   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Flipping%20bits.py) |
 |       Miscellaneous        | [Time Complexity: Primality](https://www.hackerrank.com/challenges/ctci-big-o) |  30   |   Medium   | [solution.py](Interview%20Preparation%20Kit/Time%20Complexity%20Primality.py) |
 |       Miscellaneous        |                                                              |  45   |   Medium   |                                                              |
 |       Miscellaneous        |                                                              |  55   |   Medium   |                                                              |
