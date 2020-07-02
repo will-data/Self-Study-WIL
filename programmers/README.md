@@ -15,7 +15,7 @@ Solutions to problems on [programmers](https://programmers.co.kr/learn/challenge
 |        Hash         |                                                              |       |                                                              |
 |      Stack/Que      | [Tower(탑)](https://programmers.co.kr/learn/courses/30/lessons/42588) |   2   |   [solution.py](Coding%20Test%20High-Score%20Kit/Tower.py)   |
 |      Stack/Que      | [Truck Passing a Bridge(다리를 지나는 트럭)](https://programmers.co.kr/learn/courses/30/lessons/42583) |   2   | [solution.py](Coding%20Test%20High-Score%20Kit/Truck%20Passing%20a%20Bridge.py) |
-|      Stack/Que      |                                                              |       |                                                              |
+|      Stack/Que      | [Functional Development(기능 개발)](https://programmers.co.kr/learn/courses/30/lessons/42586) |   2   | [solution.py](Coding%20Test%20High-Score%20Kit/Functional%20Development.py) |
 |      Stack/Que      |                                                              |       |                                                              |
 |      Stack/Que      | [Iron Stick(쇠막대기)](https://programmers.co.kr/learn/courses/30/lessons/42585) |   2   | [solution.py](Coding%20Test%20High-Score%20Kit/Iron%20Stick.py) |
 |      Stack/Que      |                                                              |       |                                                              |
@@ -52,7 +52,7 @@ Solutions to problems on [programmers](https://programmers.co.kr/learn/challenge
 |    Binary Search    |                                                              |       |                                                              |
 |    Binary Search    | [Stepping Stone(징검다리)](https://programmers.co.kr/learn/courses/30/lessons/43236) |   4   | [solution.py](Coding%20Test%20High-Score%20Kit/Stepping%20Stone.py) |
 |    Graph Theory     | [Furthest Node(가장 먼 노드)](https://programmers.co.kr/learn/courses/30/lessons/49189) |   3   | [solution.py](Coding%20Test%20High-Score%20Kit/Furthest%20Node.py) |
-|    Graph Theory     |                                                              |       |                                                              |
+|    Graph Theory     | [Rank(순위)](https://programmers.co.kr/learn/courses/30/lessons/49191) |   3   |   [solution.py](Coding%20Test%20High-Score%20Kit/Rank.py)    |
 |    Graph Theory     |                                                              |       |                                                              |
 |    Graph Theory     |                                                              |       |                                                              |
 
@@ -65,6 +65,8 @@ Solutions to problems on [programmers](https://programmers.co.kr/learn/challenge
 |    2019 Winter Internship    | [Bad User(불량 사용자)](https://programmers.co.kr/learn/courses/30/lessons/64064) |   3   |    [solution.py](KAKAO%20Previous%20Tests/Bad%20User.py)     |
 |    2019 Winter Internship    | [Hotel Room Assignment(호텔 방 배정)](https://programmers.co.kr/learn/courses/30/lessons/64063) |   4   | [solution.py](KAKAO%20Previous%20Tests/Hotel%20Room%20Assignment.py) |
 |    2019 Winter Internship    | [Crossing a Stepping Stone(징검다리 건너기)](https://programmers.co.kr/learn/courses/30/lessons/64062) |   3   | [solution.py](KAKAO%20Previous%20Tests/Crossing%20a%20Stepping%20Stone.py) |
+| 2020 KAKAO BLIND RECRUITMENT | [String Compression(문자열 압축)](https://programmers.co.kr/learn/courses/30/lessons/60057) |   2   | [solution.py](KAKAO%20Previous%20Tests/String%20Compression.py) |
+| 2020 KAKAO BLIND RECRUITMENT | [Parenthesis Transformation(괄호 변환)](https://programmers.co.kr/learn/courses/30/lessons/60058) |   2   | [solution.py](KAKAO%20Previous%20Tests/Parenthesis%20Transformation.py) |
 | 2020 KAKAO BLIND RECRUITMENT | [Constructing Columns and Beams(기둥과 보 설치)](https://programmers.co.kr/learn/challenges?selected_part_id=17214) |   3   | [solution.py](KAKAO%20Previous%20Tests/Constructing%20Columns%20and%20Beams.py) |
 |                              |                                                              |       |                                                              |
 ## Other Challenges
