@@ -32,5 +32,5 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 Solutions to problems on [programmers](https://programmers.co.kr/learn/challenges)
 
 * [Coding Test High-Score Kit](programmers)
-* [KAKAO Previous Tests](programmers)
+* [KAKAO Tests](programmers)
 * [Other Challenges](programmers)

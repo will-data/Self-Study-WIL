@@ -2,7 +2,7 @@
 Solutions to problems on [programmers](https://programmers.co.kr/learn/challenges)
 
 * [Coding Test High-Score Kit](#Coding-Test-High-Score-Kit)
-* [KAKAO Previous Tests](#KAKAO-Previous-Tests)
+* [KAKAO Tests](#KAKAO-Tests)
 * [Other Challenges](#Other-Challenges)
 
 ## Coding Test High-Score Kit
@@ -27,8 +27,8 @@ Solutions to problems on [programmers](https://programmers.co.kr/learn/challenge
 |       Sorting       | [Biggest Number(가장 큰 수)](https://programmers.co.kr/learn/courses/30/lessons/42746) |   2   | [solution.py](Coding%20Test%20High-Score%20Kit/Biggest%20Number.py) |
 |       Sorting       |                                                              |       |                                                              |
 |     Brute-Force     | [Mock Test(모의고사)](https://programmers.co.kr/learn/courses/30/lessons/42840) |   1   | [solution.py](Coding%20Test%20High-Score%20Kit/Mock%20Test.py) |
-|     Brute-Force     |                                                              |       |                                                              |
-|     Brute-Force     |                                                              |       |                                                              |
+|     Brute-Force     | [Find a Prime Number(소수 찾기)](https://programmers.co.kr/learn/courses/30/lessons/42839) |   2   | [solution.py](Coding%20Test%20High-Score%20Kit/Find%20a%20Prime%20Number.py) |
+|     Brute-Force     | [Bulls and Cows(숫자 야구)](https://programmers.co.kr/learn/courses/30/lessons/42841) |   2   | [solution.py](Coding%20Test%20High-Score%20Kit/Bulls%20and%20Cows.py) |
 |     Brute-Force     |                                                              |       |                                                              |
 |       Greedy        |                                                              |       |                                                              |
 |       Greedy        |                                                              |       |                                                              |
@@ -56,7 +56,7 @@ Solutions to problems on [programmers](https://programmers.co.kr/learn/challenge
 |    Graph Theory     |                                                              |       |                                                              |
 |    Graph Theory     |                                                              |       |                                                              |
 
-## KAKAO Previous Tests
+## KAKAO Tests
 
 |          Test Name           |                          Challenge                           | Level |                           Solution                           |
 | :--------------------------: | :----------------------------------------------------------: | :---: | :----------------------------------------------------------: |
@@ -68,6 +68,7 @@ Solutions to problems on [programmers](https://programmers.co.kr/learn/challenge
 | 2020 KAKAO BLIND RECRUITMENT | [String Compression(문자열 압축)](https://programmers.co.kr/learn/courses/30/lessons/60057) |   2   | [solution.py](KAKAO%20Previous%20Tests/String%20Compression.py) |
 | 2020 KAKAO BLIND RECRUITMENT | [Parenthesis Transformation(괄호 변환)](https://programmers.co.kr/learn/courses/30/lessons/60058) |   2   | [solution.py](KAKAO%20Previous%20Tests/Parenthesis%20Transformation.py) |
 | 2020 KAKAO BLIND RECRUITMENT | [Constructing Columns and Beams(기둥과 보 설치)](https://programmers.co.kr/learn/challenges?selected_part_id=17214) |   3   | [solution.py](KAKAO%20Previous%20Tests/Constructing%20Columns%20and%20Beams.py) |
+| 2020 KAKAO BLIND RECRUITMENT | [Lock and Key(자물쇠외 열쇠)](https://programmers.co.kr/learn/courses/30/lessons/60059) |   3   |                                                              |
 |                              |                                                              |       |                                                              |
 ## Other Challenges
 
