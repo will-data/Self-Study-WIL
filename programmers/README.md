@@ -68,7 +68,9 @@ Solutions to problems on [programmers](https://programmers.co.kr/learn/challenge
 | 2020 KAKAO BLIND RECRUITMENT | [String Compression(문자열 압축)](https://programmers.co.kr/learn/courses/30/lessons/60057) |   2   | [solution.py](KAKAO%20Previous%20Tests/String%20Compression.py) |
 | 2020 KAKAO BLIND RECRUITMENT | [Parenthesis Transformation(괄호 변환)](https://programmers.co.kr/learn/courses/30/lessons/60058) |   2   | [solution.py](KAKAO%20Previous%20Tests/Parenthesis%20Transformation.py) |
 | 2020 KAKAO BLIND RECRUITMENT | [Constructing Columns and Beams(기둥과 보 설치)](https://programmers.co.kr/learn/challenges?selected_part_id=17214) |   3   | [solution.py](KAKAO%20Previous%20Tests/Constructing%20Columns%20and%20Beams.py) |
-| 2020 KAKAO BLIND RECRUITMENT | [Lock and Key(자물쇠외 열쇠)](https://programmers.co.kr/learn/courses/30/lessons/60059) |   3   |                                                              |
+| 2020 KAKAO BLIND RECRUITMENT | [Lock and Key(자물쇠외 열쇠)](https://programmers.co.kr/learn/courses/30/lessons/60059) |   3   | [solution.py](KAKAO%20Previous%20Tests/Lock%20and%20Key.py)  |
+| 2020 KAKAO BLIND RECRUITMENT | [Moving Blocks(블록 이동하기)](https://programmers.co.kr/learn/courses/30/lessons/60063) |   3   |  [solution.py](KAKAO%20Previous%20Tests/Moving%20Blocks.py)  |
+| 2020 KAKAO BLIND RECRUITMENT | [Exterior Wall Inspection(외벽 점검)](https://programmers.co.kr/learn/courses/30/lessons/60062) |   3   | [solution.py](KAKAO%20Previous%20Tests/Exterior%20Wall%20Inspection.py) |
 |                              |                                                              |       |                                                              |
 ## Other Challenges
 

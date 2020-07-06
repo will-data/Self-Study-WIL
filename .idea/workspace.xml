@@ -20,8 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c76226b5-d4dd-4736-a96d-0bd12f476424" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Find a Prime Number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/Interview Preparation Kit/Frequency Queries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/KAKAO Previous Tests/Exterior Wall Inspection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/KAKAO Previous Tests/Lock and Key.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/KAKAO Previous Tests/Moving Blocks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/programmers/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,24 +36,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Binary Search Tree LCA.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HackerRank/Interview Preparation Kit/Binary Search Tree LCA.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Tree Is This a BST.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HackerRank/Interview Preparation Kit/Tree Is This a BST.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Rank.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Rank.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -96,11 +81,50 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Bulls and Cows.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Bulls and Cows.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Bulls and Cows.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+            <state relative-caret-position="76">
+              <caret line="4" column="52" selection-end-line="16" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Lock and Key.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programmers/KAKAO Previous Tests/Lock and Key.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Moving Blocks.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programmers/KAKAO Previous Tests/Moving Blocks.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="355">
+              <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Exterior Wall Inspection.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programmers/KAKAO Previous Tests/Exterior Wall Inspection.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="608">
+              <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Frequency Queries.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HackerRank/Interview Preparation Kit/Frequency Queries.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="811">
+              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+              <folding>
+                <element signature="e#16#27#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -153,6 +177,10 @@
         <option value="$PROJECT_DIR$/programmers/KAKAO Previous Tests/Parenthesis Transformation.py" />
         <option value="$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Find a Prime Number.py" />
         <option value="$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Bulls and Cows.py" />
+        <option value="$PROJECT_DIR$/programmers/KAKAO Previous Tests/Lock and Key.py" />
+        <option value="$PROJECT_DIR$/programmers/KAKAO Previous Tests/Moving Blocks.py" />
+        <option value="$PROJECT_DIR$/programmers/KAKAO Previous Tests/Exterior Wall Inspection.py" />
+        <option value="$PROJECT_DIR$/HackerRank/Interview Preparation Kit/Frequency Queries.py" />
       </list>
     </option>
   </component>
@@ -181,19 +209,18 @@
             <path>
               <item name="Self-Study-WIL" type="b2602c69:ProjectViewProjectNode" />
               <item name="Self-Study-WIL" type="462c0819:PsiDirectoryNode" />
-              <item name="programmers" type="462c0819:PsiDirectoryNode" />
+              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Self-Study-WIL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Self-Study-WIL" type="462c0819:PsiDirectoryNode" />
+              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
+              <item name="Interview Preparation Kit" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Self-Study-WIL" type="b2602c69:ProjectViewProjectNode" />
               <item name="Self-Study-WIL" type="462c0819:PsiDirectoryNode" />
               <item name="programmers" type="462c0819:PsiDirectoryNode" />
-              <item name="Coding Test High-Score Kit" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Self-Study-WIL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Self-Study-WIL" type="462c0819:PsiDirectoryNode" />
-              <item name="programmers" type="462c0819:PsiDirectoryNode" />
-              <item name="KAKAO Previous Tests" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -259,7 +286,7 @@
     <frame x="710" y="0" width="1218" height="1038" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22625215" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22970639" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="right" id="R Graphics" order="3" />
@@ -302,34 +329,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Truck Passing a Bridge.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Much Spicer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Stepping Stone.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Noodle Factory.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HackerRank/Interview Preparation Kit/InsertingaNodeIntoaSortedDoublyLinkedList.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1368">
@@ -654,8 +653,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/programmers/Coding Test High-Score Kit/Bulls and Cows.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        <state relative-caret-position="76">
+          <caret line="4" column="52" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/KAKAO Previous Tests/Lock and Key.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/KAKAO Previous Tests/Moving Blocks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers/KAKAO Previous Tests/Exterior Wall Inspection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/Interview Preparation Kit/Frequency Queries.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="811">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="e#16#27#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

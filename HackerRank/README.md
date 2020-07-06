@@ -94,7 +94,7 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 | Dictionaries and Hashmaps  | [Two Strings](https://www.hackerrank.com/challenges/two-strings) |  25   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Two%20Strings.py) |
 | Dictionaries and Hashmaps  | [Count Triplets](https://www.hackerrank.com/challenges/count-triplets-1) |  35   |   Medium   | [solution.py](Interview%20Preparation%20Kit/Count%20Triplets.py) |
 | Dictionaries and Hashmaps  | [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem) |  50   |   Medium   | [solution.py](Interview%20Preparation%20Kit/Sherlock%20and%20Anagrams.py) |
-| Dictionaries and Hashmaps  |                                                              |       |            |                                                              |
+| Dictionaries and Hashmaps  | [Frequency Queries](https://www.hackerrank.com/challenges/frequency-queries/problem) |  40   |   Medium   | [solution.py](Interview%20Preparation%20Kit/Frequency%20Queries.py) |
 |          Sorting           | [Sorting: Bubble Sort](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem) |  30   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Sorting%20Bubble%20Sort.py) |
 |          Sorting           | [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys) |  35   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Mark%20and%20Toys.py) |
 |          Sorting           | [Sorting: Comparator](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem) |  35   |   Medium   | [solution.py](Interview%20Preparation%20Kit/Sorting%20Comparator.py) |
