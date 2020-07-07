@@ -30,8 +30,8 @@ Solutions to problems on [programmers](https://programmers.co.kr/learn/challenge
 |     Brute-Force     | [Find a Prime Number(소수 찾기)](https://programmers.co.kr/learn/courses/30/lessons/42839) |   2   | [solution.py](Coding%20Test%20High-Score%20Kit/Find%20a%20Prime%20Number.py) |
 |     Brute-Force     | [Bulls and Cows(숫자 야구)](https://programmers.co.kr/learn/courses/30/lessons/42841) |   2   | [solution.py](Coding%20Test%20High-Score%20Kit/Bulls%20and%20Cows.py) |
 |     Brute-Force     |                                                              |       |                                                              |
-|       Greedy        |                                                              |       |                                                              |
-|       Greedy        |                                                              |       |                                                              |
+|       Greedy        | [Gym Suit(체육복)](https://programmers.co.kr/learn/courses/30/lessons/42862) |   1   | [solution.py](Coding%20Test%20High-Score%20Kit/Gym%20Suit.py) |
+|       Greedy        | [Making a Big Number(큰 수 만들기)](https://programmers.co.kr/learn/courses/30/lessons/42883) |   2   | [solution.py](Coding%20Test%20High-Score%20Kit/Making%20a%20Big%20Number.py) |
 |       Greedy        |                                                              |       |                                                              |
 |       Greedy        | [Lifeboat(구명보트)](https://programmers.co.kr/learn/courses/30/lessons/42885) |   2   | [solution.py](Coding%20Test%20High-Score%20Kit/Lifeboat.py)  |
 |       Greedy        | [Connecting Islands(섬 연결하기)](https://programmers.co.kr/learn/courses/30/lessons/42861) |   3   | [solution.py](Coding%20Test%20High-Score%20Kit/Connecting%20Islands.py) |
@@ -48,8 +48,8 @@ Solutions to problems on [programmers](https://programmers.co.kr/learn/challenge
 |       DFS/BFS       |                                                              |       |                                                              |
 |       DFS/BFS       |                                                              |       |                                                              |
 |       DFS/BFS       | [Travel Route(여행경로)](https://programmers.co.kr/learn/courses/30/lessons/43164) |   3   | [solution.py](Coding%20Test%20High-Score%20Kit/Travel%20Route.py) |
-|    Binary Search    |                                                              |       |                                                              |
-|    Binary Search    |                                                              |       |                                                              |
+|    Binary Search    | [Budget(예산)](https://programmers.co.kr/learn/courses/30/lessons/43237) |   3   |  [solution.py](Coding%20Test%20High-Score%20Kit/Budget.py)   |
+|    Binary Search    | [Immigration(입국 심사)](https://programmers.co.kr/learn/courses/30/lessons/43238) |   3   | [solution.py](Coding%20Test%20High-Score%20Kit/Immigration.py) |
 |    Binary Search    | [Stepping Stone(징검다리)](https://programmers.co.kr/learn/courses/30/lessons/43236) |   4   | [solution.py](Coding%20Test%20High-Score%20Kit/Stepping%20Stone.py) |
 |    Graph Theory     | [Furthest Node(가장 먼 노드)](https://programmers.co.kr/learn/courses/30/lessons/49189) |   3   | [solution.py](Coding%20Test%20High-Score%20Kit/Furthest%20Node.py) |
 |    Graph Theory     | [Rank(순위)](https://programmers.co.kr/learn/courses/30/lessons/49191) |   3   |   [solution.py](Coding%20Test%20High-Score%20Kit/Rank.py)    |
