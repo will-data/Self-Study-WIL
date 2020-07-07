@@ -12,11 +12,11 @@ Solutions to problems on [programmers](https://programmers.co.kr/learn/challenge
 |        Hash         | [Uncompleted Player(완주하지 못한 선수)](https://programmers.co.kr/learn/courses/30/lessons/42576) |   1   | [solution.py](Coding%20Test%20High-Score%20Kit/Uncompleted%20Player.py) |
 |        Hash         | [Phone Numbers List(전화번호 목록)](https://programmers.co.kr/learn/courses/30/lessons/42577) |   2   | [solution.py](Coding%20Test%20High-Score%20Kit/Phone%20Numbers%20List.py) |
 |        Hash         | [Camouflage(위장)](https://programmers.co.kr/learn/courses/30/lessons/42578) |   2   | [solution.py](Coding%20Test%20High-Score%20Kit/Camouflage.py) |
-|        Hash         |                                                              |       |                                                              |
+|        Hash         | [Best Album(베스트앨범)](https://programmers.co.kr/learn/courses/30/lessons/42579) |   3   | [solution.py](Coding%20Test%20High-Score%20Kit/Best%20Album.py) |
 |      Stack/Que      | [Tower(탑)](https://programmers.co.kr/learn/courses/30/lessons/42588) |   2   |   [solution.py](Coding%20Test%20High-Score%20Kit/Tower.py)   |
 |      Stack/Que      | [Truck Passing a Bridge(다리를 지나는 트럭)](https://programmers.co.kr/learn/courses/30/lessons/42583) |   2   | [solution.py](Coding%20Test%20High-Score%20Kit/Truck%20Passing%20a%20Bridge.py) |
 |      Stack/Que      | [Functional Development(기능 개발)](https://programmers.co.kr/learn/courses/30/lessons/42586) |   2   | [solution.py](Coding%20Test%20High-Score%20Kit/Functional%20Development.py) |
-|      Stack/Que      |                                                              |       |                                                              |
+|      Stack/Que      | [Printer(프린터)](https://programmers.co.kr/learn/courses/30/lessons/42587) |   2   |  [solution.py](Coding%20Test%20High-Score%20Kit/Printer.py)  |
 |      Stack/Que      | [Iron Stick(쇠막대기)](https://programmers.co.kr/learn/courses/30/lessons/42585) |   2   | [solution.py](Coding%20Test%20High-Score%20Kit/Iron%20Stick.py) |
 |      Stack/Que      |                                                              |       |                                                              |
 |        Heap         | [Much Spicer(더 맵게))](https://programmers.co.kr/learn/courses/30/lessons/42626) |   2   | [solution.py](Coding%20Test%20High-Score%20Kit/Much%20Spicer.py) |
@@ -40,7 +40,7 @@ Solutions to problems on [programmers](https://programmers.co.kr/learn/challenge
 | Dynamic Programming | [Express With N(N으로 표현)](https://programmers.co.kr/learn/courses/30/lessons/42895) |   3   | [solution.py](Coding%20Test%20High-Score%20Kit/Express%20With%20N.py) |
 | Dynamic Programming | [Tile Decoration(타일 장식물)](https://programmers.co.kr/learn/courses/30/lessons/43104) |   3   | [solution.py](Coding%20Test%20High-Score%20Kit/Tile%20Decoration.py) |
 | Dynamic Programming | [Integer Triangle(정수 삼각형)](https://programmers.co.kr/learn/courses/30/lessons/43105) |   3   | [solution.py](Coding%20Test%20High-Score%20Kit/Integer%20Triangle.py) |
-| Dynamic Programming |                                                              |       |                                                              |
+| Dynamic Programming | [Way to School(등굣길)](https://programmers.co.kr/learn/courses/30/lessons/42898) |   3   | [solution.py](Coding%20Test%20High-Score%20Kit/Way%20to%20School.py) |
 | Dynamic Programming |                                                              |       |                                                              |
 | Dynamic Programming |                                                              |       |                                                              |
 | Dynamic Programming |                                                              |       |                                                              |
