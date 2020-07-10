@@ -101,7 +101,7 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 |          Sorting           | [Merge Sort: Counting Inversions](https://www.hackerrank.com/challenges/ctci-merge-sort) |  45   |    Hard    |                                                              |
 |    String Manipulation     | [Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem) |  25   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Strings%20Making%20Anagrams.py) |
 |    String Manipulation     | [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters) |  20   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Alternating%20Charcters.py) |
-|    String Manipulation     |                                                              |       |            |                                                              |
+|    String Manipulation     | [Sherlock and the Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem) |  35   |   Meidum   | [solution.py](Interview%20Preparation%20Kit/Sherlock%20and%20the%20Valid%20String.py) |
 |    String Manipulation     |                                                              |       |            |                                                              |
 |     Greedy Algorithms      | [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array) |  15   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Minimum%20Absolute%20Difference%20in%20an%20Array.py) |
 |     Greedy Algorithms      | [Luck Balance](https://www.hackerrank.com/challenges/luck-balance) |  20   |    Easy    | [solution.py](Interview%20Preparation%20Kit/Luck%20Balance.py) |
@@ -110,7 +110,7 @@ Used template from a reference of [skrnsht's HackerRank repository](https://gith
 |           Search           | [Hash Tables: Ice Cream Parlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor) |  35   |   Medium   | [solution.py](Interview%20Preparation%20Kit/Hash%20Tables%20Ice%20Cream%20Parlor.py) |
 |           Search           | [Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo/problem) |  40   |   Medium   | [solution.py](Interview%20Preparation%20Kit/Swap%20Nodes,%20Algo.py) |
 |           Search           |     [Pairs](https://www.hackerrank.com/challenges/pairs)     |  50   |   Medium   |    [solution.py](Interview%20Preparation%20Kit/Pairs.py)     |
-|           Search           |                                                              |       |            |                                                              |
+|           Search           | [Triple Sum](https://www.hackerrank.com/challenges/triple-sum/problem) |  40   |   Medium   | [solution.py](Interview%20Preparation%20Kit/Triple%20Sum.py) |
 |           Search           |                                                              |       |            |                                                              |
 |           Search           |                                                              |       |            |                                                              |
 |           Search           |                                                              |       |            |                                                              |
